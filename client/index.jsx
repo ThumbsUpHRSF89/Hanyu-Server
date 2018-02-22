@@ -1,8 +1,17 @@
 import React from 'react';
-import ReactDom from 'react-dom';
+import ReactDOM from 'react-dom';
 
-const App = () => (
-  <div>Hello World</div>
-);
+class App extends React.Component {
+  constructor() {
+    super();
+  }
 
-ReactDom.render(<App />, document.getElementById('app'));
+  render() {
+    return (
+      <div>Hello World</div>
+    );
+  }
+}
+
+
+ReactDOM.render(<App />, document.getElementById('app'));

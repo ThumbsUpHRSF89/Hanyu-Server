@@ -12,11 +12,17 @@ const config = {
   module: {
     loaders: [
       {
-        test: /\.jsx?/,
+        test: /\.js?/,
         include: APP_DIR,
         loader: 'babel-loader',
+        query: {
+          presets: ['react', 'es2015'],
+        },
       },
     ],
+  },
+  resolve: {
+    extensions: ['.js', '.jsx'],
   },
 };
 

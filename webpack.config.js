@@ -15,9 +15,6 @@ const config = {
         test: /\.js?/,
         include: APP_DIR,
         loader: 'babel-loader',
-        query: {
-          presets: ['react', 'es2015'],
-        },
       },
     ],
   },

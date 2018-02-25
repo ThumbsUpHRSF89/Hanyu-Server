@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Hello /> Component renders the name given 1`] = `
+<p>
+  Hello,
+  Jack
+  !
+</p>
+`;

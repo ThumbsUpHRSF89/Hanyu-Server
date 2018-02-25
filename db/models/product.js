@@ -24,11 +24,16 @@ function insertData(products) {
   return Product.insertMany(products);
 }
 
-function getProductById(id) {
-  return Product.find({ id });
+function getAllProducts() {
+  return Product.find();
 }
 
-exports = {
+function getProductById(id) {
+  return Product.findOne({ id });
+}
+
+module.exports = {
   insertData,
   getProductById,
+  getAllProducts,
 };

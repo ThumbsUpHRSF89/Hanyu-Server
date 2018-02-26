@@ -12,8 +12,8 @@ const productSchema = new Schema({
   shipping_estimate: Date,
   prime: Boolean,
   in_stock: Number,
-  description: Array,
-  photos: Array,
+  descriptions: [String],
+  image_url: [String],
   rating: Number,
   review: Number,
 });

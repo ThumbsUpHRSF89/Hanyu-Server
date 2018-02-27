@@ -35,8 +35,8 @@ describe('Tests for database', () => {
         expect(product).toHaveProperty('shipping_estimate');
         expect(product).toHaveProperty('prime');
         expect(product).toHaveProperty('in_stock');
-        expect(product).toHaveProperty('description');
-        expect(product).toHaveProperty('photos');
+        expect(product).toHaveProperty('descriptions');
+        expect(product).toHaveProperty('image_url');
         expect(product).toHaveProperty('rating');
         expect(product).toHaveProperty('review');
       })

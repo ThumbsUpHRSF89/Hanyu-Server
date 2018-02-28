@@ -1,6 +1,6 @@
 import React from 'react';
-import App from '../client/index';
-import ImageView from '../client/component/imageView';
+import App from '../client/components/app';
+import ImageView from '../client/components/imageView';
 
 describe('App', () => {
   it('should render an <ImageView /> component', () => {

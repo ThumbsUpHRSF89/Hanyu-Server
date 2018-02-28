@@ -1,18 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import product from './dummyData';
+import ImageView from './components/imageView';
 
-export default class App extends React.component {
+export default class App extends React.Component {
   constructor() {
     super();
     this.state = {
-      hello: 'world',
+      product,
     };
   }
 
   render() {
     return (
       <div>
-        Hello World
+        <ImageView
+          images={this.state.product.image_url}
+          title={this.state.product.name}
+        />
       </div>
     );
   }

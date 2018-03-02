@@ -3,7 +3,9 @@ import PropTypes from 'prop-types';
 
 const ImageListEntry = ({ image }) => (
   <li>
-    <img src={image} alt="" />
+    <span className="image-list-item" >
+      <img src={image} alt="" />
+    </span>
   </li>
 );
 

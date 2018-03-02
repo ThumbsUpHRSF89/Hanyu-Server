@@ -1,0 +1,33 @@
+.image-view {
+  display: flex;
+  flex-direction: row;
+}
+
+.image-list {
+  overflow: visible;
+}
+
+.image-list ul {
+  padding: 0;
+}
+
+.image-list li {
+  margin: 0 0 10px 0;
+  list-style: none;
+}
+
+.image-list img {
+  max-width: 40px;
+  max-height: 40px;
+}
+
+.image-list-item {
+  border: 1px solid #979aa1;
+  display: block;
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+}

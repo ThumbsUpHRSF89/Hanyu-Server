@@ -4,7 +4,7 @@ import ImageList from './imageList';
 import MainImage from './mainImage';
 
 const imageView = ({ images, selected, title }) => (
-  <div>
+  <div className="image-view">
     <ImageList images={images} />
     <MainImage image={images[selected]} title={title} />
   </div>

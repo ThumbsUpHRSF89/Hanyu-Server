@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const MainImage = ({ image, title }) => (
-  <div>
-    <img src={image} alt={title} />
+  <div className="main-product-display" >
+    <img className="main-product-image" src={image} alt={title} />
   </div>
 );
 

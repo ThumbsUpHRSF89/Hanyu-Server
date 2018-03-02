@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import ImageListEntry from './imageListEntry';
 
 const ImageList = ({ images }) => (
-  <div>
+  <div className="image-list" >
     <ul>
       {images.map(image => <ImageListEntry image={image} />)}
     </ul>

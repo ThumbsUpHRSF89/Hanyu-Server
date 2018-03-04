@@ -21,6 +21,11 @@
   max-height: 40px;
 }
 
+.image-selected {
+  border-color: #e77600!important;
+  box-shadow: 0 0 3px 2px rgba(228,121,17,.5);
+}
+
 .image-list-item {
   border: 1px solid #979aa1;
   display: block;
@@ -30,4 +35,17 @@
   text-align: center;
   vertical-align: middle;
   text-decoration: none;
+}
+
+.main-product-display {
+  width: 425px;
+  height: 425px;
+  text-align: center;
+  vertical-align: middle;
+  margin: 20px 50px;
+}
+
+.main-product-display img {
+  max-width: 100%;
+  max-height: 100%;
 }

@@ -5,11 +5,11 @@ module.exports = {
   "name":"productnamMoto X (4th Generation) - with hands-free Amazon Alexa – 32 GB - Unlocked – Super Black - Prime Exclusive",
   "image_url":[
      "https://images-na.ssl-images-amazon.com/images/I/71qpbk55hmL._SX522_.jpg",
-     "https://images-na.ssl-images-amazon.com/images/I/41vQqNH7zQL._SS40_.jpg",
-     "https://images-na.ssl-images-amazon.com/images/I/51zjsz41u4L._SS40_.jpg",
-     "https://images-na.ssl-images-amazon.com/images/I/41-t5Cn5guL._SS40_.jpg",
-     "https://images-na.ssl-images-amazon.com/images/I/410eKNQoGHL._SX38_SY50_CR,0,0,38,50_.jpg",
-     "https://images-na.ssl-images-amazon.com/images/I/41F%2BDpAfF5L._SX38_SY50_CR,0,0,38,50_.jpg"
+     "http://imgur.com/lOF0a13.jpg#puppies",
+     "http://imgur.com/knw05XS.jpg#puppies",
+     "http://imgur.com/sUGkXs1.jpg#puppies",
+     "http://imgur.com/XW7mWlP.jpg#puppies",
+     "http://imgur.com/CmiRlxL.jpg#puppies"
   ],
   "descriptions":[
      "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",

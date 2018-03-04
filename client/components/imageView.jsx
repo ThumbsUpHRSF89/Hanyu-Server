@@ -3,21 +3,33 @@ import PropTypes from 'prop-types';
 import ImageList from './imageList';
 import MainImage from './mainImage';
 
-const imageView = ({ images, selected, title }) => (
-  <div className="image-view">
-    <ImageList images={images} />
-    <MainImage image={images[selected]} title={title} />
-  </div>
-);
+export default class imageView extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      select: 0,
+    };
+
+    this.selectImage = this.selectImage.bind(this);
+  }
+  selectImage(index) {
+    this.setState({ select: index });
+  }
+  render() {
+    return (
+      <div className="image-view">
+        <ImageList
+          images={this.props.images}
+          select={this.selectImage}
+          selected={this.state.select}
+        />
+        <MainImage image={this.props.images[this.state.select]} title={this.props.title} />
+      </div>
+    );
+  }
+}
 
 imageView.propTypes = {
   images: PropTypes.arrayOf(PropTypes.string).isRequired,
-  selected: PropTypes.number,
   title: PropTypes.string.isRequired,
 };
-
-imageView.defaultProps = {
-  selected: 0,
-};
-
-export default imageView;

@@ -1,11 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-// import ImageList from './imageList';
+import ImageList from './imageList';
 import MainImage from './mainImage';
 
 const imageView = ({ images, selected, title }) => (
-  <div>
-    {/* <ImageList images={images} /> */}
+  <div className="image-view">
+    <ImageList images={images} />
     <MainImage image={images[selected]} title={title} />
   </div>
 );

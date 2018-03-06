@@ -95,6 +95,7 @@ export default class MainImage extends React.Component {
               alt={this.props.title}
             />
           </div>
+          <span id="canvasCaption">Roll over image to zoom in</span>
         </div>
         {this.state.magnify && <div id="magnifyLens" />}
       </div>

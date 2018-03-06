@@ -1,6 +1,6 @@
 import React from 'react';
-import ImageList from '../client/components/imageList';
-import ImageListEntry from '../client/components/imageListEntry';
+import ImageList from '../client/components/imageView/imageList';
+import ImageListEntry from '../client/components/imageView/imageListEntry';
 import data from '../client/dummyData';
 
 describe('<ImageList />', () => {

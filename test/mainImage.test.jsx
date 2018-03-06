@@ -1,5 +1,5 @@
 import React from 'react';
-import MainImage from '../client/components/mainImage';
+import MainImage from '../client/components/imageView/mainImage';
 import data from '../client/dummyData';
 
 describe('<MainImage />', () => {

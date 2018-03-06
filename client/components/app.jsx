@@ -1,6 +1,6 @@
 import React from 'react';
 import product from '../dummyData';
-import ImageView from './imageView';
+import ImageView from './imageView/imageView';
 
 export default class App extends React.Component {
   constructor() {

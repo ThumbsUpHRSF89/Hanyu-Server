@@ -28,24 +28,54 @@
 
 .image-list-item {
   border: 1px solid #979aa1;
-  display: block;
+  display: flex;
   width: 40px;
   height: 40px;
   overflow: visible;
-  text-align: center;
-  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
   text-decoration: none;
 }
 
+.image-list-item:hover{
+  cursor: pointer;
+}
+
 .main-product-display {
+  display: flex;
+  flex-direction: row;
+}
+
+.main-image-wrapper {
+  margin: 20px 50px;
   width: 425px;
   height: 425px;
   text-align: center;
-  vertical-align: middle;
-  margin: 20px 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.main-product-display img {
-  max-width: 100%;
-  max-height: 100%;
+.main-image-wrapper div {
+  width: auto;
+  height: auto;
+  position: relative;
+}
+
+.main-image-wrapper img {
+  max-width: 425px;
+  max-height: 425px;
+}
+
+#magnifyLens {
+  border: 1px solid #d4d4d4;
+  width: 1000px;
+  height: 750px;
+}
+
+#zoomLens {
+  border: 1px solid #d4d4d4;
+  width: 200px;
+  height: 150px;
+  position: absolute;
 }

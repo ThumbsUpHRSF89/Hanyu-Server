@@ -8,7 +8,7 @@ module.exports = {
      "http://imgur.com/lOF0a13.jpg#puppies",
      "http://imgur.com/knw05XS.jpg#puppies",
      "http://imgur.com/sUGkXs1.jpg#puppies",
-     "http://imgur.com/XW7mWlP.jpg#puppies",
+     "https://images-na.ssl-images-amazon.com/images/I/81tGc%2BeSFmL._SX522_.jpg",
      "http://imgur.com/CmiRlxL.jpg#puppies"
   ],
   "descriptions":[

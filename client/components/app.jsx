@@ -1,6 +1,7 @@
 import React from 'react';
 import product from '../dummyData';
 import ImageView from './imageView/imageView';
+import ItemDetailsView from './itemDetailsView/itemDetailsView';
 
 export default class App extends React.Component {
   constructor() {
@@ -11,12 +12,14 @@ export default class App extends React.Component {
   }
 
   render() {
+    const { image_url: images, ...details } = this.state.product;
     return (
       <div>
         <ImageView
-          images={this.state.product.image_url}
-          title={this.state.product.name}
+          images={images}
+          title={details.name}
         />
+        <ItemDetailsView details={details} />
       </div>
     );
   }

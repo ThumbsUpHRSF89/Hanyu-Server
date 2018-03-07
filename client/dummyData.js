@@ -25,5 +25,4 @@ module.exports = {
   "in_stock":2,
   "rating":1,
   "review":6933,
-  "shipping_estimate":"2018-04-14T07:00:00.000Z"
 };

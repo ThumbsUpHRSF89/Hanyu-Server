@@ -12,7 +12,7 @@ const ItemDetailsHeader = props => (
     </div>
     <div className="review-section">
       <Rating rating={props.rating} />
-      <a class="reviews" href="#">{props.reviews} customer reviews</a>
+      <a className="reviews" href="#">{props.reviews} customer reviews</a>
     </div>
   </div>
 );

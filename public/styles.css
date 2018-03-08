@@ -182,3 +182,26 @@ body {
 .reviews {
   margin-left: 20px;
 }
+
+.size-medium {
+  font-size: 17px!important;
+  line-height: 1.255!important;
+  font-weight: 500;
+}
+
+.size-base {
+  font-size: 13px!important;
+  line-height: 19px!important;
+}
+
+.color-base {
+  color: #111!important;
+}
+
+.color-price {
+  color: #B12704!important;
+}
+
+.color-secondary {
+  color: #555!important;
+}

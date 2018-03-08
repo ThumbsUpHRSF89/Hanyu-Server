@@ -42,8 +42,8 @@ const Rating = ({ rating }) => {
   }
   return (
     <div className="rating">
-      <div className={`icon icon-star ${className}`} />
-      <div className="icon icon-popover" />
+      <i className={`icon icon-star ${className}`} />
+      <i className="icon icon-popover" />
     </div>
   );
 };

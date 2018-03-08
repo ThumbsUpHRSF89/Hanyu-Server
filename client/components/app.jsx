@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles.css';
 import ImageView from './imageView/imageView';
 import ItemDetailsView from './itemDetailsView/itemDetailsView';
 
@@ -11,7 +12,7 @@ export default class App extends React.Component {
   }
 
   componentWillMount() {
-    this.getProductInfo(32);
+    this.getProductInfo(0);
   }
 
   getProductInfo(id) {

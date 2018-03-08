@@ -16,6 +16,11 @@ const config = {
         include: APP_DIR,
         loader: 'babel-loader',
       },
+      {
+        test: /\.css/,
+        include: APP_DIR,
+        loaders: ['style-loader', 'css-loader'],
+      },
     ],
   },
   resolve: {

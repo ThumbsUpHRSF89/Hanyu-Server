@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import ItemDetailsHeader from './itemDetailsHeader';
 import Price from './price';
+import Prime from './prime';
 import InStock from './inStock';
 import DescriptionList from './descriptionList';
 import Shipping from './shipping';
@@ -16,6 +17,7 @@ const ItemDetailsView = ({ details }) => (
     />
     <hr />
     <Price price={details.price} shipping={details.shipping} />
+    {details.prime && <Prime />}
     <InStock inStock={details.in_stock} />
     <Shipping />
     <DescriptionList descriptions={details.descriptions} />

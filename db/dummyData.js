@@ -6,28 +6,22 @@ module.exports = [
       "name":"productnamMoto X (4th Generation) - with hands-free Amazon Alexa – 32 GB - Unlocked – Super Black - Prime Exclusive",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71qpbk55hmL._SX522_.jpg",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/knw05XS.jpg#puppies",
-         "http://imgur.com/sUGkXs1.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/CmiRlxL.jpg#puppies"
+         "http://imgur.com/sesTnZr.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "descriptions":[
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
-         "Wider frequency response for fuller listening enjoyment",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory"
+         "Natural Fiber Blend Helps Control Hairballs",
+         "Long 3.6-ft cord threads comfortably through clothing and bags",
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share"
       ],
-      "price":3186.94,
-      "shipping":72.78,
+      "price":5998.65,
+      "shipping":48.81,
       "prime":true,
-      "in_stock":2,
-      "rating":1,
-      "review":6933,
-      "shipping_estimate":"2018-04-14T07:00:00.000Z"
+      "in_stock":19,
+      "rating":4.5,
+      "review":7566,
+      "brand":"Patagonia"
    },
    {
       "id":1,
@@ -35,26 +29,28 @@ module.exports = [
       "name":"Nokia 6 - 32 GB - Unlocked (AT&T/T-Mobile) - Black",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/51vc-PvR-xL._SX522_.jpg",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/tOOCguv.jpg#puppies",
-         "http://imgur.com/iIlhBgo.jpg#puppies",
+         "http://imgur.com/zPS7iWZ.jpg#puppies",
+         "http://imgur.com/XW7mWlP.jpg#puppies",
          "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/P1GxMHI.jpg#puppies"
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies"
       ],
       "descriptions":[
-         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "Direct-lit LED produces great picture quality",
-         "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones."
+         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
+         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
+         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
+         "Connectivity technology is wired. Maximum input 200 milli watt",
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\""
       ],
-      "price":4082.8,
-      "shipping":3.92,
+      "price":4152.66,
+      "shipping":49.67,
       "prime":false,
-      "in_stock":20,
-      "rating":0.5,
-      "review":2971,
-      "shipping_estimate":"2018-04-23T07:00:00.000Z"
+      "in_stock":13,
+      "rating":2,
+      "review":5054,
+      "brand":"Hisense"
    },
    {
       "id":2,
@@ -62,26 +58,28 @@ module.exports = [
       "name":"LG Q6 - 32 GB - Unlocked (AT&T/T-Mobile) - Platinum - Prime Exclusive",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61tdL--e76L._SY679_.jpg",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
          "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "descriptions":[
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "Wider frequency response for fuller listening enjoyment",
-         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
-         "100% Complete & Balanced Formula for Adult Cats",
-         "Wider frequency response for fuller listening enjoyment"
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next."
       ],
-      "price":5195.59,
-      "shipping":65.64,
+      "price":5967.12,
+      "shipping":0,
       "prime":true,
-      "in_stock":13,
-      "rating":1.5,
-      "review":1462,
-      "shipping_estimate":"2018-04-11T07:00:00.000Z"
+      "in_stock":14,
+      "rating":1,
+      "review":7337,
+      "brand":"Sony"
    },
    {
       "id":3,
@@ -89,28 +87,28 @@ module.exports = [
       "name":"Nokia 2 - 8GB - Unlocked Phone (AT&T/T-Mobile) - 5\" Screen - Black (U.S. Warranty)",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/518zmuwdHzL._SX522_.jpg",
-         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/ISCAhSo.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
          "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/sUGkXs1.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/sesTnZr.jpg#puppies"
+         "http://imgur.com/9iJfCs2.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies"
       ],
       "descriptions":[
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
          "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage"
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
+         "Wider frequency response for fuller listening enjoyment",
+         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
+         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more."
       ],
-      "price":319.42,
-      "shipping":0,
-      "prime":true,
-      "in_stock":8,
-      "rating":2,
-      "review":887,
-      "shipping_estimate":"2018-04-14T07:00:00.000Z"
+      "price":5987.61,
+      "shipping":79.04,
+      "prime":false,
+      "in_stock":4,
+      "rating":1,
+      "review":2171,
+      "brand":"Hisense"
    },
    {
       "id":4,
@@ -118,24 +116,26 @@ module.exports = [
       "name":"Nokia 6 TA-1000 64GB Black, Dual Sim, 5.5\", GSM Unlocked International Model, No Warranty",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/512zZS7f4SL._SX522_.jpg",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/knw05XS.jpg#puppies",
-         "http://imgur.com/sUGkXs1.jpg#puppies"
+         "http://imgur.com/9iJfCs2.jpg#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "descriptions":[
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors"
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV"
       ],
-      "price":504.3,
-      "shipping":48.78,
-      "prime":false,
-      "in_stock":4,
-      "rating":1,
-      "review":6499,
-      "shipping_estimate":"2018-04-13T07:00:00.000Z"
+      "price":3773.84,
+      "shipping":34.66,
+      "prime":true,
+      "in_stock":20,
+      "rating":1.5,
+      "review":3693,
+      "brand":"Patagonia"
    },
    {
       "id":5,
@@ -143,22 +143,24 @@ module.exports = [
       "name":"LG X charge - 16 GB – Unlocked (AT&T/Sprint/T-Mobile) - Titanium - Prime Exclusive",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61KvOuzd4gL._SX522_.jpg",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies"
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "descriptions":[
-         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
+         "Connectivity technology is wired. Maximum input 200 milli watt",
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones."
       ],
-      "price":1231.25,
-      "shipping":50.4,
-      "prime":true,
-      "in_stock":7,
-      "rating":4.5,
-      "review":770,
-      "shipping_estimate":"2018-04-20T07:00:00.000Z"
+      "price":1835.87,
+      "shipping":83.78,
+      "prime":false,
+      "in_stock":5,
+      "rating":2.5,
+      "review":4394,
+      "brand":"Samsung"
    },
    {
       "id":6,
@@ -166,24 +168,26 @@ module.exports = [
       "name":"Moto G PLUS (5th Generation) - 32 GB - Unlocked - Lunar Gray - Prime Exclusive",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/715gpXz0dYL._SY679_.jpg",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/sUGkXs1.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
          "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/kkb2FVM.jpg#puppies"
+         "http://imgur.com/1eo74Yu.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies"
       ],
       "descriptions":[
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "100% Complete & Balanced Formula for Adult Cats",
-         "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures"
+         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur"
       ],
-      "price":4267.53,
-      "shipping":0,
-      "prime":false,
-      "in_stock":2,
-      "rating":1,
-      "review":1986,
-      "shipping_estimate":"2018-04-07T07:00:00.000Z"
+      "price":5400.24,
+      "shipping":65.02,
+      "prime":true,
+      "in_stock":11,
+      "rating":1.5,
+      "review":3107,
+      "brand":"Webpack"
    },
    {
       "id":7,
@@ -191,24 +195,22 @@ module.exports = [
       "name":"Nokia 6 TA-1000 64GB Silver, Dual Sim, 5.5\", GSM Unlocked International Model, No Warranty ",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61XQc%2BFYeBL._SL1000_.jpg",
-         "http://imgur.com/CmiRlxL.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/sUGkXs1.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies"
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies"
       ],
       "descriptions":[
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience."
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
+         "Connectivity technology is wired. Maximum input 200 milli watt"
       ],
-      "price":2337.6,
-      "shipping":0,
+      "price":5013.19,
+      "shipping":67.87,
       "prime":false,
-      "in_stock":7,
-      "rating":0,
-      "review":2966,
-      "shipping_estimate":"2018-04-06T07:00:00.000Z"
+      "in_stock":10,
+      "rating":1.5,
+      "review":559,
+      "brand":"Logitech"
    },
    {
       "id":8,
@@ -216,24 +218,24 @@ module.exports = [
       "name":"Moto G PLUS (5th Generation) - 64 GB - Unlocked - Lunar Gray - Prime Exclusive",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/715gpXz0dYL._SY679_.jpg",
+         "http://imgur.com/1eo74Yu.jpg#puppies",
          "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies"
+         "http://imgur.com/9iJfCs2.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies"
       ],
       "descriptions":[
-         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "Wider frequency response for fuller listening enjoyment"
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
+         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV"
       ],
-      "price":5143.6,
+      "price":563.64,
       "shipping":0,
       "prime":false,
-      "in_stock":9,
-      "rating":1.5,
-      "review":2672,
-      "shipping_estimate":"2018-04-16T07:00:00.000Z"
+      "in_stock":18,
+      "rating":2,
+      "review":7708,
+      "brand":"SuperDry"
    },
    {
       "id":9,
@@ -241,26 +243,24 @@ module.exports = [
       "name":"LG G6 - 32 GB - Unlocked (AT&T/T-Mobile/Verizon) - Platinum - Prime Exclusive",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71eqmzFN7CL._SY679_.jpg",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/Ryl08TL.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies"
+         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/1eo74Yu.jpg#puppies",
+         "http://imgur.com/9iJfCs2.jpg#puppies"
       ],
       "descriptions":[
-         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "Made with Real Chicken and Turkey",
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
-         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears"
+         "Direct-lit LED produces great picture quality",
+         "Direct-lit LED produces great picture quality",
+         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\""
       ],
-      "price":3310.72,
+      "price":5043.53,
       "shipping":0,
       "prime":false,
-      "in_stock":13,
-      "rating":2,
-      "review":1946,
-      "shipping_estimate":"2018-04-26T07:00:00.000Z"
+      "in_stock":17,
+      "rating":3,
+      "review":6988,
+      "brand":"Apache"
    },
    {
       "id":10,
@@ -268,28 +268,28 @@ module.exports = [
       "name":"Nokia 8 TA-1052 64GB Polished Copper, Dual Sim, 5.4\", 4GB RAM, GSM Unlocked International Model, No Warranty",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/41xTHkyKgnL.jpg",
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
          "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/1eo74Yu.jpg#puppies",
-         "http://imgur.com/sesTnZr.jpg#puppies",
-         "http://imgur.com/sesTnZr.jpg#puppies",
+         "http://imgur.com/GDx27HC.jpg#puppies",
          "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "descriptions":[
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
          "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
-         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
+         "Natural Fiber Blend Helps Control Hairballs"
       ],
-      "price":4274.92,
-      "shipping":0,
+      "price":3757.82,
+      "shipping":78.2,
       "prime":true,
-      "in_stock":7,
-      "rating":4.5,
-      "review":1011,
-      "shipping_estimate":"2018-04-22T07:00:00.000Z"
+      "in_stock":8,
+      "rating":1,
+      "review":824,
+      "brand":"Patagonia"
    },
    {
       "id":11,
@@ -297,22 +297,28 @@ module.exports = [
       "name":"Moto E (4th Generation) - 16 GB - Unlocked (AT&T/Sprint/T-Mobile/Verizon) - Black - Prime Exclusive",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/616l8dGb3lL._SX522_.jpg",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
          "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/ISCAhSo.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies"
+         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/XW7mWlP.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies"
       ],
       "descriptions":[
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
-         "Long 3.6-ft cord threads comfortably through clothing and bags"
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
+         "Long 3.6-ft cord threads comfortably through clothing and bags",
+         "Made with Real Chicken and Turkey",
+         "Wider frequency response for fuller listening enjoyment",
+         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory"
       ],
-      "price":3031.46,
-      "shipping":78.56,
-      "prime":false,
-      "in_stock":15,
-      "rating":3.5,
-      "review":4598,
-      "shipping_estimate":"2018-04-09T07:00:00.000Z"
+      "price":5728.38,
+      "shipping":11.95,
+      "prime":true,
+      "in_stock":5,
+      "rating":1.5,
+      "review":7566,
+      "brand":"Supreme"
    },
    {
       "id":12,
@@ -320,26 +326,26 @@ module.exports = [
       "name":"LG Electronics LGUS601.AUSASV X Charge Unlocked Phone - 16GB - 5.5\" - Silver (U.S. Warranty)",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/81KoFhuT%2BzL._SY679_.jpg",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/kkb2FVM.jpg#puppies",
-         "http://imgur.com/knw05XS.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies"
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/zPS7iWZ.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/GDx27HC.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies"
       ],
       "descriptions":[
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
+         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
          "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache"
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory"
       ],
-      "price":2232.35,
-      "shipping":66.97,
-      "prime":false,
-      "in_stock":14,
-      "rating":4.5,
-      "review":7778,
-      "shipping_estimate":"2018-04-12T07:00:00.000Z"
+      "price":1218.7,
+      "shipping":0,
+      "prime":true,
+      "in_stock":6,
+      "rating":2,
+      "review":1247,
+      "brand":"Webpack"
    },
    {
       "id":13,
@@ -347,28 +353,28 @@ module.exports = [
       "name":"Nokia 6 Case, Yiakeng Nature TPU Soft Cover Crystal Case Clear Skin Soft Case Slim Case for Nokia6 5.5\" (Clear)",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61x54F0s4bL._SX522_.jpg",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/GDx27HC.jpg#puppies"
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/GDx27HC.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies"
       ],
       "descriptions":[
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
          "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "Wider frequency response for fuller listening enjoyment",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache"
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
+         "100% Complete & Balanced Formula for Adult Cats",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
+         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones."
       ],
-      "price":2960.91,
-      "shipping":80.97,
+      "price":533.42,
+      "shipping":37.95,
       "prime":true,
-      "in_stock":7,
-      "rating":4.5,
-      "review":7860,
-      "shipping_estimate":"2018-04-21T07:00:00.000Z"
+      "in_stock":15,
+      "rating":2,
+      "review":8169,
+      "brand":"Webpack"
    },
    {
       "id":14,
@@ -376,28 +382,26 @@ module.exports = [
       "name":"Nokia 6 Case, Dretal [Shock Resistant] Flexible Soft TPU Brushed Anti-fingerprint Full-body Protective Case Cover For Nokia 6 (5.5\") (Red)",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61A5wrZcNgL._SX522_.jpg",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
          "http://imgur.com/sUGkXs1.jpg#puppies",
-         "http://imgur.com/CmiRlxL.jpg#puppies"
+         "http://imgur.com/TFF2dql.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/ISCAhSo.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies"
       ],
       "descriptions":[
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
-         "100% Complete & Balanced Formula for Adult Cats",
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience."
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "Wider frequency response for fuller listening enjoyment",
+         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache"
       ],
-      "price":2849.36,
-      "shipping":22.72,
-      "prime":true,
-      "in_stock":5,
-      "rating":0,
-      "review":4096,
-      "shipping_estimate":"2018-04-18T07:00:00.000Z"
+      "price":2978.65,
+      "shipping":6.67,
+      "prime":false,
+      "in_stock":0,
+      "rating":4.5,
+      "review":3188,
+      "brand":"SuperDry"
    },
    {
       "id":15,
@@ -405,28 +409,22 @@ module.exports = [
       "name":"Nokia 5 TA-1053 16GB, Dual Sim, 5.2\", Factory Unlocked International Model, No Warranty - GSM ONLY, NO CDMA (Blue)",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61A0jmawunL._SX522_.jpg",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies"
+         "http://imgur.com/iIlhBgo.jpg#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies",
+         "http://imgur.com/sUGkXs1.jpg#puppies"
       ],
       "descriptions":[
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
-         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "Direct-lit LED produces great picture quality",
          "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port"
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV"
       ],
-      "price":4563.26,
+      "price":5207.33,
       "shipping":0,
       "prime":false,
-      "in_stock":9,
-      "rating":4,
-      "review":2847,
-      "shipping_estimate":"2018-04-09T07:00:00.000Z"
+      "in_stock":8,
+      "rating":2.5,
+      "review":1296,
+      "brand":"Rolex"
    },
    {
       "id":16,
@@ -434,28 +432,26 @@ module.exports = [
       "name":"Essential Phone 128 GB Unlocked with Full Display, Dual Camera – Black Moon",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/81OvOMun5zL._SX522_.jpg",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/P1GxMHI.jpg#puppies",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/iIlhBgo.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies"
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/CmiRlxL.jpg#puppies"
       ],
       "descriptions":[
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "Made with Real Chicken and Turkey",
-         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory"
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "Connectivity technology is wired. Maximum input 200 milli watt",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "Long 3.6-ft cord threads comfortably through clothing and bags"
       ],
-      "price":3550.59,
-      "shipping":90.02,
+      "price":528.32,
+      "shipping":0,
       "prime":false,
-      "in_stock":8,
-      "rating":3,
-      "review":4249,
-      "shipping_estimate":"2018-04-02T07:00:00.000Z"
+      "in_stock":6,
+      "rating":5,
+      "review":7637,
+      "brand":"Huawei"
    },
    {
       "id":17,
@@ -463,28 +459,26 @@ module.exports = [
       "name":"Xiaomi Redmi Note 4 32GB Black, 5.5\", Dual Sim, 13MP, GSM Unlocked Global Model, No Warranty",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71Fk5kYeoiL._SY679_.jpg",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/ISCAhSo.jpg#puppies",
          "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/CmiRlxL.jpg#puppies",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/CmiRlxL.jpg#puppies"
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/xYM1WVJ.jpg#puppies"
       ],
       "descriptions":[
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV"
+         "Made with Real Chicken and Turkey",
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "Made with Real Chicken and Turkey",
+         "Wider frequency response for fuller listening enjoyment"
       ],
-      "price":1798.42,
-      "shipping":0,
+      "price":1706.35,
+      "shipping":31.46,
       "prime":false,
-      "in_stock":5,
-      "rating":5,
-      "review":1776,
-      "shipping_estimate":"2018-04-05T07:00:00.000Z"
+      "in_stock":8,
+      "rating":4,
+      "review":5104,
+      "brand":"Rolex"
    },
    {
       "id":18,
@@ -492,28 +486,22 @@ module.exports = [
       "name":"Sony Xperia L1 - Unlocked Smartphone - 16GB - Black (US Warranty)",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71%2B0yjSNyVL._SY679_.jpg",
-         "http://imgur.com/ISCAhSo.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/iIlhBgo.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies",
-         "http://imgur.com/CmiRlxL.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies"
+         "http://imgur.com/1eo74Yu.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "descriptions":[
-         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
+         "Wider frequency response for fuller listening enjoyment",
+         "Natural Fiber Blend Helps Control Hairballs",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience."
       ],
-      "price":5280.72,
+      "price":1595.6,
       "shipping":0,
-      "prime":false,
-      "in_stock":12,
-      "rating":5,
-      "review":4014,
-      "shipping_estimate":"2018-04-08T07:00:00.000Z"
+      "prime":true,
+      "in_stock":15,
+      "rating":3,
+      "review":597,
+      "brand":"Logitech"
    },
    {
       "id":19,
@@ -521,22 +509,28 @@ module.exports = [
       "name":"Unlocked Cell Phones, DOOGEE X20 Smartphone Unlocked Android 7.0 - 5.0\" HD IPS Display - 1GB RAM + 16GB ROM - 5MP Dual Cameras - 3G Unlocked Phones - Black",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71oS8Xo8jlL._SX522_.jpg",
-         "http://imgur.com/kkb2FVM.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/ISCAhSo.jpg#puppies"
+         "http://imgur.com/sUGkXs1.jpg#puppies",
+         "http://imgur.com/zPS7iWZ.jpg#puppies",
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/1eo74Yu.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies"
       ],
       "descriptions":[
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
-         "Made with Real Chicken and Turkey",
-         "Connectivity technology is wired. Maximum input 200 milli watt"
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "100% Complete & Balanced Formula for Adult Cats",
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
+         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals"
       ],
-      "price":1364.09,
-      "shipping":0,
-      "prime":true,
-      "in_stock":18,
+      "price":491.33,
+      "shipping":46.31,
+      "prime":false,
+      "in_stock":12,
       "rating":0.5,
-      "review":8244,
-      "shipping_estimate":"2018-04-29T07:00:00.000Z"
+      "review":682,
+      "brand":"Rolex"
    },
    {
       "id":20,
@@ -544,24 +538,24 @@ module.exports = [
       "name":"Sony Xperia L1 16GB 5.5-inch Smartphone, Unlocked Pink (1308-0910) w/ VR Accessory Bundle Includes, Virtual Reality Cinema Viewer with Insulated Audio System & 32GB MicroSD High-Speed Memory Card",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61F8WTKx4jL._SL1000_.jpg",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies"
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies"
       ],
       "descriptions":[
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
+         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
          "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system"
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)"
       ],
-      "price":2764.79,
+      "price":3911,
       "shipping":0,
       "prime":true,
-      "in_stock":12,
+      "in_stock":2,
       "rating":0.5,
-      "review":555,
-      "shipping_estimate":"2018-04-11T07:00:00.000Z"
+      "review":3783,
+      "brand":"Sony"
    },
    {
       "id":21,
@@ -569,26 +563,28 @@ module.exports = [
       "name":"Sony Xperia XA1 - Unlocked Smartphone - 32GB - White (US Warranty)",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71oTbQBhpiL._SX522_.jpg",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
          "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/1eo74Yu.jpg#puppies"
+         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/GDx27HC.jpg#puppies"
       ],
       "descriptions":[
-         "100% Complete & Balanced Formula for Adult Cats",
-         "Made with Real Chicken and Turkey",
-         "Natural Fiber Blend Helps Control Hairballs",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
          "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "Long 3.6-ft cord threads comfortably through clothing and bags"
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W"
       ],
-      "price":3297.17,
+      "price":278.32,
       "shipping":0,
       "prime":true,
-      "in_stock":16,
-      "rating":4,
-      "review":7871,
-      "shipping_estimate":"2018-04-06T07:00:00.000Z"
+      "in_stock":17,
+      "rating":5,
+      "review":5215,
+      "brand":"Apple"
    },
    {
       "id":22,
@@ -596,28 +592,26 @@ module.exports = [
       "name":"Sony Xperia XA unlocked smartphone,16GB Black (US Warranty)",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71iaaasXEgL._SY679_.jpg",
-         "http://imgur.com/sUGkXs1.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/1eo74Yu.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies"
+         "http://imgur.com/wMTyFXF.jpg#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/GDx27HC.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies"
       ],
       "descriptions":[
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
-         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
-         "100% Complete & Balanced Formula for Adult Cats"
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "Direct-lit LED produces great picture quality"
       ],
-      "price":5134.01,
-      "shipping":57.37,
+      "price":406.15,
+      "shipping":0,
       "prime":true,
-      "in_stock":20,
-      "rating":1,
-      "review":1076,
-      "shipping_estimate":"2018-04-21T07:00:00.000Z"
+      "in_stock":6,
+      "rating":4.5,
+      "review":3248,
+      "brand":"Hisense"
    },
    {
       "id":23,
@@ -625,26 +619,24 @@ module.exports = [
       "name":"SONY XPERIA E5 Black (F3313) (UNLOCKED) LTE 5.0\" / 16GB-1.5GB RAM / 13MP SMARTPHONE - 1 year US WARRANTY!",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61TCI8BRZqL._SY679_.jpg",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
          "http://imgur.com/kkb2FVM.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/ISCAhSo.jpg#puppies"
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/GDx27HC.jpg#puppies",
+         "http://imgur.com/TFF2dql.jpg#puppies"
       ],
       "descriptions":[
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
-         "Wider frequency response for fuller listening enjoyment",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
          "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors"
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
+         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out"
       ],
-      "price":2477.9,
-      "shipping":94.28,
-      "prime":true,
-      "in_stock":13,
-      "rating":2,
-      "review":3413,
-      "shipping_estimate":"2018-04-19T07:00:00.000Z"
+      "price":3616.74,
+      "shipping":0,
+      "prime":false,
+      "in_stock":17,
+      "rating":4.5,
+      "review":5421,
+      "brand":"Sony"
    },
    {
       "id":24,
@@ -652,26 +644,22 @@ module.exports = [
       "name":"Nokia 3 TA-1032 4G LTE Dual sim 16GB Android 7.0 2GB Ram 8MP International Version No Warranty (Silver/White)",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61k%2BXS1GLHL._SX522_.jpg",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/P1GxMHI.jpg#puppies"
+         "http://imgur.com/ISCAhSo.jpg#puppies",
+         "http://imgur.com/sUGkXs1.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "descriptions":[
-         "Connectivity technology is wired. Maximum input 200 milli watt",
          "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "Made with Real Chicken and Turkey",
-         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port"
+         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
+         "Wider frequency response for fuller listening enjoyment"
       ],
-      "price":2830.96,
+      "price":1925.9,
       "shipping":0,
       "prime":true,
-      "in_stock":0,
-      "rating":4.5,
-      "review":7758,
-      "shipping_estimate":"2018-04-29T07:00:00.000Z"
+      "in_stock":9,
+      "rating":5,
+      "review":1845,
+      "brand":"Logitech"
    },
    {
       "id":25,
@@ -679,28 +667,24 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/31T7cG1RxpL.jpg",
-         "http://imgur.com/CmiRlxL.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/sesTnZr.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies"
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies"
       ],
       "descriptions":[
-         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share"
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
+         "100% Complete & Balanced Formula for Adult Cats"
       ],
-      "price":4641.46,
+      "price":459.87,
       "shipping":0,
       "prime":false,
-      "in_stock":12,
-      "rating":4.5,
-      "review":6273,
-      "shipping_estimate":"2018-04-13T07:00:00.000Z"
+      "in_stock":7,
+      "rating":2,
+      "review":7155,
+      "brand":"Logitech"
    },
    {
       "id":26,
@@ -708,28 +692,26 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61y0yb%2B3pqL._SL1280_.jpg",
-         "http://imgur.com/knw05XS.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
          "http://imgur.com/sesTnZr.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies"
+         "http://imgur.com/GDx27HC.jpg#puppies"
       ],
       "descriptions":[
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
+         "Wider frequency response for fuller listening enjoyment",
          "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "100% Complete & Balanced Formula for Adult Cats",
          "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12"
       ],
-      "price":5096.51,
+      "price":4331.22,
       "shipping":0,
-      "prime":false,
-      "in_stock":12,
-      "rating":3.5,
-      "review":6409,
-      "shipping_estimate":"2018-04-28T07:00:00.000Z"
+      "prime":true,
+      "in_stock":6,
+      "rating":2.5,
+      "review":5742,
+      "brand":"Huawei"
    },
    {
       "id":27,
@@ -737,22 +719,28 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61cFs0XjzFL._SL1500_.jpg",
-         "http://imgur.com/P1GxMHI.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies",
-         "http://imgur.com/knw05XS.jpg#puppies"
+         "http://imgur.com/sesTnZr.jpg#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/1eo74Yu.jpg#puppies",
+         "http://imgur.com/1eo74Yu.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies"
       ],
       "descriptions":[
-         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\""
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones."
       ],
-      "price":336.68,
-      "shipping":0,
-      "prime":false,
-      "in_stock":1,
-      "rating":0,
-      "review":5811,
-      "shipping_estimate":"2018-04-08T07:00:00.000Z"
+      "price":5996.79,
+      "shipping":80.46,
+      "prime":true,
+      "in_stock":14,
+      "rating":1,
+      "review":3847,
+      "brand":"Stussy"
    },
    {
       "id":28,
@@ -760,28 +748,26 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71dCtpr8REL._SL1500_.jpg",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/iIlhBgo.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/knw05XS.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies"
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/CmiRlxL.jpg#puppies",
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/XW7mWlP.jpg#puppies"
       ],
       "descriptions":[
-         "Natural Fiber Blend Helps Control Hairballs",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache"
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "Connectivity technology is wired. Maximum input 200 milli watt",
+         "Wider frequency response for fuller listening enjoyment",
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "Natural Fiber Blend Helps Control Hairballs"
       ],
-      "price":2578.25,
-      "shipping":75.46,
+      "price":3708.32,
+      "shipping":84.89,
       "prime":true,
-      "in_stock":5,
-      "rating":0,
-      "review":650,
-      "shipping_estimate":"2018-04-15T07:00:00.000Z"
+      "in_stock":8,
+      "rating":3,
+      "review":3114,
+      "brand":"Apache"
    },
    {
       "id":29,
@@ -789,24 +775,26 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/51vWsEvnVJL._SL1050_.jpg",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies"
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies"
       ],
       "descriptions":[
-         "Direct-lit LED produces great picture quality",
-         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
-         "Natural Fiber Blend Helps Control Hairballs",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12"
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
+         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "Connectivity technology is wired. Maximum input 200 milli watt",
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur"
       ],
-      "price":2112.76,
-      "shipping":0,
+      "price":426.69,
+      "shipping":82.93,
       "prime":true,
-      "in_stock":7,
-      "rating":4.5,
-      "review":5371,
-      "shipping_estimate":"2018-04-14T07:00:00.000Z"
+      "in_stock":9,
+      "rating":5,
+      "review":3963,
+      "brand":"Hisense"
    },
    {
       "id":30,
@@ -814,22 +802,26 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61GIxxfDvKL._SL1280_.jpg",
-         "http://imgur.com/xYM1WVJ.jpg#puppies",
-         "http://imgur.com/ISCAhSo.jpg#puppies",
-         "http://imgur.com/wMTyFXF.jpg#puppies"
+         "http://imgur.com/TFF2dql.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies"
       ],
       "descriptions":[
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
+         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears"
       ],
-      "price":445.39,
-      "shipping":0,
-      "prime":false,
-      "in_stock":3,
-      "rating":3,
-      "review":3807,
-      "shipping_estimate":"2018-04-28T07:00:00.000Z"
+      "price":381.33,
+      "shipping":94.35,
+      "prime":true,
+      "in_stock":19,
+      "rating":0.5,
+      "review":6829,
+      "brand":"Huawei"
    },
    {
       "id":31,
@@ -837,28 +829,22 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61VcjWqmBSL._SL1280_.jpg",
-         "http://imgur.com/P1GxMHI.jpg#puppies",
-         "http://imgur.com/1eo74Yu.jpg#puppies",
-         "http://imgur.com/ISCAhSo.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/wMTyFXF.jpg#puppies"
+         "http://imgur.com/wMTyFXF.jpg#puppies",
+         "http://imgur.com/sesTnZr.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies"
       ],
       "descriptions":[
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
          "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
-         "Made with Real Chicken and Turkey",
-         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
          "Direct-lit LED produces great picture quality"
       ],
-      "price":866.63,
-      "shipping":0,
-      "prime":false,
+      "price":2701.53,
+      "shipping":79.25,
+      "prime":true,
       "in_stock":9,
-      "rating":4.5,
-      "review":8610,
-      "shipping_estimate":"2018-04-24T07:00:00.000Z"
+      "rating":0,
+      "review":2952,
+      "brand":"Apache"
    },
    {
       "id":32,
@@ -866,22 +852,28 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61L2yUAOKeL._SL1280_.jpg",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/CmiRlxL.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies"
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies",
+         "http://imgur.com/TFF2dql.jpg#puppies"
       ],
       "descriptions":[
-         "Direct-lit LED produces great picture quality",
          "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions."
+         "Natural Fiber Blend Helps Control Hairballs",
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
+         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
+         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
+         "Direct-lit LED produces great picture quality"
       ],
-      "price":5987.28,
-      "shipping":50.69,
+      "price":2084.41,
+      "shipping":29.97,
       "prime":true,
-      "in_stock":4,
-      "rating":1,
-      "review":3873,
-      "shipping_estimate":"2018-04-01T07:00:00.000Z"
+      "in_stock":11,
+      "rating":4.5,
+      "review":1936,
+      "brand":"Supreme"
    },
    {
       "id":33,
@@ -889,22 +881,24 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61UtzTmRkmL._SL1280_.jpg",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies"
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/9iJfCs2.jpg#puppies",
+         "http://imgur.com/TFF2dql.jpg#puppies"
       ],
       "descriptions":[
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
-         "Long 3.6-ft cord threads comfortably through clothing and bags"
+         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
+         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals"
       ],
-      "price":911.93,
-      "shipping":14.26,
+      "price":5649.2,
+      "shipping":33.12,
       "prime":true,
-      "in_stock":2,
-      "rating":5,
-      "review":2144,
-      "shipping_estimate":"2018-04-01T07:00:00.000Z"
+      "in_stock":9,
+      "rating":4.5,
+      "review":8344,
+      "brand":"Logitech"
    },
    {
       "id":34,
@@ -912,22 +906,26 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71es1iBWE-L._SL1500_.jpg",
-         "http://imgur.com/Ryl08TL.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies"
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies",
+         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/1eo74Yu.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "descriptions":[
-         "Natural Fiber Blend Helps Control Hairballs",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "Long 3.6-ft cord threads comfortably through clothing and bags"
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
+         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "Made with Real Chicken and Turkey"
       ],
-      "price":5479.1,
-      "shipping":28.64,
+      "price":925.45,
+      "shipping":0,
       "prime":false,
-      "in_stock":10,
-      "rating":2,
-      "review":4518,
-      "shipping_estimate":"2018-04-29T07:00:00.000Z"
+      "in_stock":16,
+      "rating":1.5,
+      "review":2646,
+      "brand":"Huawei"
    },
    {
       "id":35,
@@ -935,26 +933,26 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71HavkRJuOL._SL1500_.jpg",
-         "http://imgur.com/ISCAhSo.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies"
+         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/sUGkXs1.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "descriptions":[
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
-         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port"
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "Long 3.6-ft cord threads comfortably through clothing and bags",
+         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)"
       ],
-      "price":3172.66,
-      "shipping":30.95,
+      "price":1169.46,
+      "shipping":0,
       "prime":true,
-      "in_stock":7,
-      "rating":1,
-      "review":5865,
-      "shipping_estimate":"2018-04-26T07:00:00.000Z"
+      "in_stock":13,
+      "rating":3,
+      "review":2868,
+      "brand":"Hisense"
    },
    {
       "id":36,
@@ -962,26 +960,24 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71WoLs1CO3L._SL1500_.jpg",
-         "http://imgur.com/1eo74Yu.jpg#puppies",
-         "http://imgur.com/1eo74Yu.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
          "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies"
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies"
       ],
       "descriptions":[
          "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
-         "Connectivity technology is wired. Maximum input 200 milli watt"
+         "Made with Real Chicken and Turkey",
+         "Natural Fiber Blend Helps Control Hairballs",
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur"
       ],
-      "price":4435.13,
-      "shipping":0,
-      "prime":true,
-      "in_stock":3,
-      "rating":2,
-      "review":1270,
-      "shipping_estimate":"2018-04-06T07:00:00.000Z"
+      "price":389.78,
+      "shipping":63.09,
+      "prime":false,
+      "in_stock":6,
+      "rating":5,
+      "review":2150,
+      "brand":"Samsung"
    },
    {
       "id":37,
@@ -989,28 +985,22 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71R7jKxQxXL._SL1500_.jpg",
-         "http://imgur.com/1eo74Yu.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies"
+         "http://imgur.com/CmiRlxL.jpg#puppies",
+         "http://imgur.com/sUGkXs1.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "descriptions":[
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)"
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions."
       ],
-      "price":294.78,
-      "shipping":18.66,
+      "price":2166.42,
+      "shipping":0,
       "prime":true,
-      "in_stock":20,
-      "rating":5,
-      "review":7778,
-      "shipping_estimate":"2018-04-13T07:00:00.000Z"
+      "in_stock":9,
+      "rating":4.5,
+      "review":1985,
+      "brand":"Supreme"
    },
    {
       "id":38,
@@ -1019,25 +1009,21 @@ module.exports = [
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71VJaOr3gnL._SL1500_.jpg",
          "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies"
+         "http://imgur.com/P1GxMHI.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies"
       ],
       "descriptions":[
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "Natural Fiber Blend Helps Control Hairballs",
-         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals"
+         "Wider frequency response for fuller listening enjoyment",
+         "Direct-lit LED produces great picture quality",
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port"
       ],
-      "price":3214.69,
-      "shipping":90.91,
+      "price":3182.91,
+      "shipping":0,
       "prime":true,
-      "in_stock":13,
-      "rating":2,
-      "review":5096,
-      "shipping_estimate":"2018-04-06T07:00:00.000Z"
+      "in_stock":14,
+      "rating":1.5,
+      "review":5392,
+      "brand":"Dell"
    },
    {
       "id":39,
@@ -1045,22 +1031,24 @@ module.exports = [
       "category":"headphones",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/61a9fpKy3qL._SL1500_.jpg",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies"
+         "http://imgur.com/sUGkXs1.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies"
       ],
       "descriptions":[
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "Natural Fiber Blend Helps Control Hairballs",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share"
+         "Made with Real Chicken and Turkey",
+         "Wider frequency response for fuller listening enjoyment",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W"
       ],
-      "price":3478.32,
-      "shipping":24.33,
-      "prime":true,
-      "in_stock":0,
-      "rating":3,
-      "review":3490,
-      "shipping_estimate":"2018-04-02T07:00:00.000Z"
+      "price":1756.47,
+      "shipping":38.84,
+      "prime":false,
+      "in_stock":7,
+      "rating":2.5,
+      "review":2482,
+      "brand":"Rolex"
    },
    {
       "id":40,
@@ -1068,24 +1056,28 @@ module.exports = [
       "category":"cat food",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/81XKRgX0CbL._SL1500_.jpg",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
          "http://imgur.com/GDx27HC.jpg#puppies",
-         "http://imgur.com/sUGkXs1.jpg#puppies",
-         "http://imgur.com/iIlhBgo.jpg#puppies"
+         "http://imgur.com/GDx27HC.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies"
       ],
       "descriptions":[
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
+         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
+         "100% Complete & Balanced Formula for Adult Cats",
          "Natural Fiber Blend Helps Control Hairballs",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory"
       ],
-      "price":790.38,
-      "shipping":0,
+      "price":4283.78,
+      "shipping":19.72,
       "prime":true,
-      "in_stock":15,
-      "rating":2.5,
-      "review":7258,
-      "shipping_estimate":"2018-04-26T07:00:00.000Z"
+      "in_stock":5,
+      "rating":3.5,
+      "review":7830,
+      "brand":"Intel"
    },
    {
       "id":41,
@@ -1093,24 +1085,22 @@ module.exports = [
       "category":"cat food",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/71e%2BOBGQk5L._SL1300_.jpg",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/1eo74Yu.jpg#puppies",
-         "http://imgur.com/Ryl08TL.jpg#puppies"
+         "http://imgur.com/TFF2dql.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies"
       ],
       "descriptions":[
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
-         "Natural Fiber Blend Helps Control Hairballs",
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system"
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "Made with Real Chicken and Turkey",
+         "Wider frequency response for fuller listening enjoyment"
       ],
-      "price":3863.22,
+      "price":4811.14,
       "shipping":0,
-      "prime":false,
-      "in_stock":8,
-      "rating":3.5,
-      "review":7553,
-      "shipping_estimate":"2018-04-18T07:00:00.000Z"
+      "prime":true,
+      "in_stock":19,
+      "rating":0.5,
+      "review":7240,
+      "brand":"RR"
    },
    {
       "id":42,
@@ -1118,22 +1108,22 @@ module.exports = [
       "category":"cat food",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/81tMyZtpHRL._SL1300_.jpg",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
          "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "descriptions":[
-         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share"
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next."
       ],
-      "price":2127.1,
-      "shipping":38.35,
+      "price":5405.71,
+      "shipping":0,
       "prime":true,
-      "in_stock":18,
+      "in_stock":11,
       "rating":1.5,
-      "review":6506,
-      "shipping_estimate":"2018-04-25T07:00:00.000Z"
+      "review":1433,
+      "brand":"SuperDry"
    },
    {
       "id":43,
@@ -1141,26 +1131,28 @@ module.exports = [
       "category":"cat food",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/81iY6Jf-QHL._SL1500_.jpg",
-         "http://imgur.com/ISCAhSo.jpg#puppies",
          "http://imgur.com/iIlhBgo.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/knw05XS.jpg#puppies",
-         "http://imgur.com/GDx27HC.jpg#puppies"
+         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "descriptions":[
-         "100% Complete & Balanced Formula for Adult Cats",
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
-         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
-         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience"
+         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
+         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
+         "Long 3.6-ft cord threads comfortably through clothing and bags",
+         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors"
       ],
-      "price":2314.7,
-      "shipping":99.16,
-      "prime":true,
-      "in_stock":11,
-      "rating":1,
-      "review":3308,
-      "shipping_estimate":"2018-04-02T07:00:00.000Z"
+      "price":3854.43,
+      "shipping":0,
+      "prime":false,
+      "in_stock":3,
+      "rating":4,
+      "review":7261,
+      "brand":"Intel"
    },
    {
       "id":44,
@@ -1168,24 +1160,24 @@ module.exports = [
       "category":"cat food",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/81iY6Jf-QHL._SL1500_.jpg",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/Ryl08TL.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies"
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/sesTnZr.jpg#puppies"
       ],
       "descriptions":[
-         "Natural Fiber Blend Helps Control Hairballs",
-         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "100% Complete & Balanced Formula for Adult Cats"
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
       ],
-      "price":371.76,
+      "price":4178.43,
       "shipping":0,
       "prime":true,
-      "in_stock":3,
-      "rating":5,
-      "review":456,
-      "shipping_estimate":"2018-04-05T07:00:00.000Z"
+      "in_stock":17,
+      "rating":0.5,
+      "review":504,
+      "brand":"RR"
    },
    {
       "id":45,
@@ -1193,26 +1185,24 @@ module.exports = [
       "category":"cat food",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/81xfG2foxVL._SL1500_.jpg",
-         "http://imgur.com/sesTnZr.jpg#puppies",
-         "http://imgur.com/GDx27HC.jpg#puppies",
-         "http://imgur.com/tOOCguv.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies"
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/j4Hu90T.png#puppies"
       ],
       "descriptions":[
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur"
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience"
       ],
-      "price":2094.38,
-      "shipping":38.71,
+      "price":3115.26,
+      "shipping":96.57,
       "prime":true,
-      "in_stock":14,
+      "in_stock":11,
       "rating":5,
-      "review":1018,
-      "shipping_estimate":"2018-04-12T07:00:00.000Z"
+      "review":3979,
+      "brand":"SuperDry"
    },
    {
       "id":46,
@@ -1220,22 +1210,22 @@ module.exports = [
       "category":"cat food",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/81mbzXlXN8L._SL1500_.jpg",
-         "http://imgur.com/sUGkXs1.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies"
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/sesTnZr.jpg#puppies"
       ],
       "descriptions":[
-         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience."
+         "100% Complete & Balanced Formula for Adult Cats",
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next."
       ],
-      "price":1049.37,
-      "shipping":43.02,
-      "prime":false,
-      "in_stock":18,
-      "rating":1.5,
-      "review":1844,
-      "shipping_estimate":"2018-04-03T07:00:00.000Z"
+      "price":2658.89,
+      "shipping":25.68,
+      "prime":true,
+      "in_stock":19,
+      "rating":2.5,
+      "review":328,
+      "brand":"Sony"
    },
    {
       "id":47,
@@ -1243,22 +1233,22 @@ module.exports = [
       "category":"cat food",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/91i3WownEhL._SL1500_.jpg",
-         "http://imgur.com/sesTnZr.jpg#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies"
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/9iJfCs2.jpg#puppies"
       ],
       "descriptions":[
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures"
+         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)"
       ],
-      "price":350.83,
+      "price":3517.05,
       "shipping":0,
       "prime":false,
-      "in_stock":18,
-      "rating":0.5,
-      "review":1098,
-      "shipping_estimate":"2018-04-13T07:00:00.000Z"
+      "in_stock":16,
+      "rating":4.5,
+      "review":4511,
+      "brand":"Rolex"
    },
    {
       "id":48,
@@ -1266,28 +1256,24 @@ module.exports = [
       "category":"cat food",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/818NOD6F1XL._SL1500_.jpg",
-         "http://imgur.com/knw05XS.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies"
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/GDx27HC.jpg#puppies",
+         "http://imgur.com/ISCAhSo.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "descriptions":[
-         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
          "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "720p HD resolution for a crisp picture. 120V – 60Hz 50W"
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "100% Complete & Balanced Formula for Adult Cats",
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience"
       ],
-      "price":5680.36,
-      "shipping":0,
-      "prime":false,
-      "in_stock":17,
-      "rating":3,
-      "review":2974,
-      "shipping_estimate":"2018-04-27T07:00:00.000Z"
+      "price":887.8,
+      "shipping":76.66,
+      "prime":true,
+      "in_stock":7,
+      "rating":1,
+      "review":2362,
+      "brand":"Rolex"
    },
    {
       "id":49,
@@ -1295,521 +1281,507 @@ module.exports = [
       "category":"cat food",
       "image_url":[
          "https://images-na.ssl-images-amazon.com/images/I/91Ry9TwrYkL._SL1500_.jpg",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/tOOCguv.jpg#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies"
+         "http://imgur.com/1eo74Yu.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "descriptions":[
-         "Direct-lit LED produces great picture quality",
-         "Natural Fiber Blend Helps Control Hairballs",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
-         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones."
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
+         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears"
       ],
-      "price":3153.35,
-      "shipping":0,
+      "price":4585.09,
+      "shipping":35.15,
       "prime":true,
-      "in_stock":11,
-      "rating":4.5,
-      "review":890,
-      "shipping_estimate":"2018-04-25T07:00:00.000Z"
+      "in_stock":19,
+      "rating":1,
+      "review":5705,
+      "brand":"Rolex"
    },
    {
       "id":50,
       "name":"Lead Ballon",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-04.jpg?itok=dEigMkKk&fc=50,50",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies"
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
-         "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
-         "Direct-lit LED produces great picture quality"
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out"
       ],
-      "price":5686.95,
-      "shipping":13.66,
-      "prime":true,
-      "in_stock":8,
-      "rating":5,
-      "review":6225,
-      "shipping_estimate":"2018-04-20T07:00:00.000Z"
+      "price":4766.55,
+      "shipping":18.38,
+      "prime":false,
+      "in_stock":4,
+      "rating":3.5,
+      "review":8497,
+      "brand":"Stussy"
    },
    {
       "id":51,
       "name":"Halo",
       "image_url":[
          "https://cdn2.harveynorman.com.au/media/catalog/product/cache/21/image/992x558/9df78eab33525d08d6e5fb8d27136e95/3/4/3495037_1.jpg",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
          "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies",
          "http://imgur.com/kkb2FVM.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "100% Complete & Balanced Formula for Adult Cats",
-         "Natural Fiber Blend Helps Control Hairballs",
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage"
+         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
+         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out"
       ],
-      "price":590.15,
-      "shipping":37.83,
-      "prime":false,
-      "in_stock":2,
-      "rating":2.5,
-      "review":1843,
-      "shipping_estimate":"2018-04-09T07:00:00.000Z"
+      "price":3815.37,
+      "shipping":0,
+      "prime":true,
+      "in_stock":18,
+      "rating":3,
+      "review":342,
+      "brand":"Intel"
    },
    {
       "id":52,
       "name":"Typhoon",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-04.jpg?itok=dEigMkKk&fc=50,50",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/iIlhBgo.jpg#puppies",
-         "http://imgur.com/tOOCguv.jpg#puppies",
-         "http://imgur.com/sesTnZr.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies"
+         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/zPS7iWZ.jpg#puppies",
+         "http://imgur.com/GDx27HC.jpg#puppies",
+         "http://imgur.com/zPS7iWZ.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
-         "Wider frequency response for fuller listening enjoyment",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage"
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
+         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12"
       ],
-      "price":1799.84,
-      "shipping":18.97,
-      "prime":false,
-      "in_stock":8,
-      "rating":2.5,
-      "review":4910,
-      "shipping_estimate":"2018-04-21T07:00:00.000Z"
+      "price":1310.07,
+      "shipping":33.23,
+      "prime":true,
+      "in_stock":7,
+      "rating":4,
+      "review":5753,
+      "brand":"Stussy"
    },
    {
       "id":53,
       "name":"Constitution",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-00.jpg?itok=lfMW1KUQ&fc=50,50",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
          "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies"
+         "http://imgur.com/knw05XS.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "Made with Real Chicken and Turkey",
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out"
+         "100% Complete & Balanced Formula for Adult Cats",
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones."
       ],
-      "price":1709.96,
-      "shipping":0,
-      "prime":true,
-      "in_stock":17,
-      "rating":0.5,
-      "review":4999,
-      "shipping_estimate":"2018-04-18T07:00:00.000Z"
+      "price":4458.71,
+      "shipping":57.7,
+      "prime":false,
+      "in_stock":7,
+      "rating":0,
+      "review":6459,
+      "brand":"SuperDry"
    },
    {
       "id":54,
       "name":"Halo",
       "image_url":[
          "https://i0.wp.com/thedronegirl.com/wp-content/uploads/2016/07/MG_1612.jpg?resize=1024%2C683",
-         "http://imgur.com/P1GxMHI.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/CmiRlxL.jpg#puppies"
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/XW7mWlP.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "100% Complete & Balanced Formula for Adult Cats"
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones."
       ],
-      "price":2505.43,
+      "price":4568.02,
       "shipping":0,
-      "prime":true,
-      "in_stock":1,
+      "prime":false,
+      "in_stock":15,
       "rating":2.5,
-      "review":3095,
-      "shipping_estimate":"2018-04-13T07:00:00.000Z"
+      "review":2017,
+      "brand":"Patagonia"
    },
    {
       "id":55,
       "name":"Aardvark",
       "image_url":[
          "https://i0.wp.com/thedronegirl.com/wp-content/uploads/2016/07/MG_1612.jpg?resize=1024%2C683",
-         "http://imgur.com/sesTnZr.jpg#puppies",
-         "http://imgur.com/P1GxMHI.jpg#puppies",
-         "http://imgur.com/GDx27HC.jpg#puppies"
+         "http://imgur.com/CmiRlxL.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
-         "Direct-lit LED produces great picture quality",
-         "Direct-lit LED produces great picture quality"
+         "Long 3.6-ft cord threads comfortably through clothing and bags",
+         "100% Complete & Balanced Formula for Adult Cats",
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)"
       ],
-      "price":2150.9,
-      "shipping":0,
+      "price":4099.11,
+      "shipping":93.85,
       "prime":false,
-      "in_stock":5,
-      "rating":4.5,
-      "review":6659,
-      "shipping_estimate":"2018-04-11T07:00:00.000Z"
+      "in_stock":8,
+      "rating":3.5,
+      "review":6828,
+      "brand":"RR"
    },
    {
       "id":56,
       "name":"Warthog",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-09.jpg?itok=dEigMkKk&fc=50,50",
-         "http://imgur.com/Ryl08TL.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/GDx27HC.jpg#puppies",
          "http://imgur.com/tOOCguv.jpg#puppies",
-         "http://imgur.com/P1GxMHI.jpg#puppies"
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/XW7mWlP.jpg#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory"
+         "Made with Real Chicken and Turkey",
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
+         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W"
       ],
-      "price":5466.98,
-      "shipping":0,
-      "prime":true,
-      "in_stock":17,
-      "rating":1.5,
-      "review":1569,
-      "shipping_estimate":"2018-04-29T07:00:00.000Z"
+      "price":5880.73,
+      "shipping":77.39,
+      "prime":false,
+      "in_stock":14,
+      "rating":4.5,
+      "review":6779,
+      "brand":"Supreme"
    },
    {
       "id":57,
       "name":"Tsunami",
       "image_url":[
          "https://truimg.toysrus.com/product/images/sharper-image-rechargeable-dx-2-stunt-drone-2.4-ghz-black--54BCFCEC.zoom.jpg?fit=inside|485:485",
-         "http://imgur.com/knw05XS.jpg#puppies",
-         "http://imgur.com/Ryl08TL.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies"
+         "http://imgur.com/XW7mWlP.jpg#puppies",
+         "http://imgur.com/sesTnZr.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "Natural Fiber Blend Helps Control Hairballs",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones."
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
+         "100% Complete & Balanced Formula for Adult Cats"
       ],
-      "price":847.93,
-      "shipping":17.31,
-      "prime":false,
-      "in_stock":2,
-      "rating":0,
-      "review":5256,
-      "shipping_estimate":"2018-04-07T07:00:00.000Z"
+      "price":4571.32,
+      "shipping":0,
+      "prime":true,
+      "in_stock":4,
+      "rating":5,
+      "review":8142,
+      "brand":"SuperDry"
    },
    {
       "id":58,
       "name":"Weasel",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-07.jpg?itok=dEigMkKk&fc=50,50",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies"
+         "http://imgur.com/ISCAhSo.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/j4Hu90T.png#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share"
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
+         "Connectivity technology is wired. Maximum input 200 milli watt"
       ],
-      "price":595.76,
-      "shipping":61.8,
-      "prime":true,
-      "in_stock":4,
-      "rating":4.5,
-      "review":3136,
-      "shipping_estimate":"2018-04-14T07:00:00.000Z"
+      "price":4711.44,
+      "shipping":0,
+      "prime":false,
+      "in_stock":6,
+      "rating":2.5,
+      "review":4706,
+      "brand":"Intel"
    },
    {
       "id":59,
       "name":"Hummingbird",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-05.jpg?itok=dEigMkKk&fc=50,50",
+         "http://imgur.com/knw05XS.jpg#puppies",
          "http://imgur.com/GDx27HC.jpg#puppies",
-         "http://imgur.com/Ryl08TL.jpg#puppies",
-         "http://imgur.com/sUGkXs1.jpg#puppies",
-         "http://imgur.com/kkb2FVM.jpg#puppies"
+         "http://imgur.com/P1GxMHI.jpg#puppies",
+         "http://imgur.com/CmiRlxL.jpg#puppies",
+         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
-         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next."
+         "Made with Real Chicken and Turkey",
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
+         "Made with Real Chicken and Turkey",
+         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
+         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions."
       ],
-      "price":5620.57,
-      "shipping":89.35,
+      "price":3071.29,
+      "shipping":0,
       "prime":true,
-      "in_stock":10,
-      "rating":3.5,
-      "review":6832,
-      "shipping_estimate":"2018-04-27T07:00:00.000Z"
+      "in_stock":14,
+      "rating":1.5,
+      "review":2201,
+      "brand":"Sony"
    },
    {
       "id":60,
       "name":"Bebop 2",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-08.jpg?itok=dEigMkKk&fc=50,50",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
          "http://imgur.com/P1GxMHI.jpg#puppies",
-         "http://imgur.com/GDx27HC.jpg#puppies"
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
+         "100% Complete & Balanced Formula for Adult Cats",
+         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
+         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
+         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
          "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones."
+         "Natural Fiber Blend Helps Control Hairballs"
       ],
-      "price":3810.39,
-      "shipping":51.26,
+      "price":1361.6,
+      "shipping":5.7,
       "prime":false,
-      "in_stock":9,
-      "rating":0,
-      "review":8256,
-      "shipping_estimate":"2018-04-28T07:00:00.000Z"
+      "in_stock":0,
+      "rating":2.5,
+      "review":2631,
+      "brand":"Samsung"
    },
    {
       "id":61,
       "name":"Lead Ballon",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-03.jpg?itok=ZDWebsXe&fc=50,50",
-         "http://imgur.com/1eo74Yu.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/iIlhBgo.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies"
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "Made with Real Chicken and Turkey",
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system"
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "Natural Fiber Blend Helps Control Hairballs",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
+         "Wider frequency response for fuller listening enjoyment",
+         "100% Complete & Balanced Formula for Adult Cats",
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)"
       ],
-      "price":1316.67,
+      "price":4343.76,
       "shipping":0,
-      "prime":false,
-      "in_stock":7,
-      "rating":4,
-      "review":7753,
-      "shipping_estimate":"2018-04-22T07:00:00.000Z"
+      "prime":true,
+      "in_stock":2,
+      "rating":1.5,
+      "review":3924,
+      "brand":"Patagonia"
    },
    {
       "id":62,
       "name":"Henry",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-08.jpg?itok=dEigMkKk&fc=50,50",
-         "http://imgur.com/kkb2FVM.jpg#puppies",
-         "http://imgur.com/1eo74Yu.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/tOOCguv.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies"
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "Direct-lit LED produces great picture quality",
-         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
-         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next."
+         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "Made with Real Chicken and Turkey"
       ],
-      "price":5225.81,
+      "price":3728.97,
       "shipping":0,
-      "prime":true,
-      "in_stock":4,
-      "rating":4,
-      "review":6418,
-      "shipping_estimate":"2018-04-01T07:00:00.000Z"
+      "prime":false,
+      "in_stock":1,
+      "rating":1.5,
+      "review":5568,
+      "brand":"Samsung"
    },
    {
       "id":63,
       "name":"Galileo",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-09.jpg?itok=dEigMkKk&fc=50,50",
-         "http://imgur.com/iIlhBgo.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/CmiRlxL.jpg#puppies",
          "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/sesTnZr.jpg#puppies"
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "Wider frequency response for fuller listening enjoyment",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
          "Wider frequency response for fuller listening enjoyment"
       ],
-      "price":412.08,
-      "shipping":0,
-      "prime":false,
-      "in_stock":6,
-      "rating":0,
-      "review":5407,
-      "shipping_estimate":"2018-04-12T07:00:00.000Z"
+      "price":3768.66,
+      "shipping":93.24,
+      "prime":true,
+      "in_stock":16,
+      "rating":5,
+      "review":1294,
+      "brand":"Hisense"
    },
    {
       "id":64,
       "name":"Phantom",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-07.jpg?itok=dEigMkKk&fc=50,50",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies"
+         "http://imgur.com/TFF2dql.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures"
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
+         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
+         "100% Complete & Balanced Formula for Adult Cats",
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur"
       ],
-      "price":3555.89,
+      "price":4423.87,
       "shipping":0,
-      "prime":false,
+      "prime":true,
       "in_stock":15,
-      "rating":4.5,
-      "review":2703,
-      "shipping_estimate":"2018-04-23T07:00:00.000Z"
+      "rating":2.5,
+      "review":1532,
+      "brand":"Dell"
    },
    {
       "id":65,
       "name":"Aardvark",
       "image_url":[
          "https://cdn2.harveynorman.com.au/media/catalog/product/cache/21/image/992x558/9df78eab33525d08d6e5fb8d27136e95/3/4/3495037_1.jpg",
-         "http://imgur.com/P1GxMHI.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies"
+         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/sUGkXs1.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
-         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
-         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience"
+         "Direct-lit LED produces great picture quality",
+         "Wider frequency response for fuller listening enjoyment",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
       ],
-      "price":2792.27,
-      "shipping":0,
+      "price":3473.13,
+      "shipping":14.1,
       "prime":false,
-      "in_stock":11,
-      "rating":5,
-      "review":1040,
-      "shipping_estimate":"2018-04-17T07:00:00.000Z"
+      "in_stock":6,
+      "rating":2,
+      "review":8006,
+      "brand":"Stussy"
    },
    {
       "id":66,
       "name":"Parrot",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-03.jpg?itok=ZDWebsXe&fc=50,50",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies"
+         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/CmiRlxL.jpg#puppies",
+         "http://imgur.com/ISCAhSo.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
          "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV"
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
+         "Made with Real Chicken and Turkey"
       ],
-      "price":3024.26,
+      "price":2087.44,
       "shipping":0,
-      "prime":true,
-      "in_stock":11,
-      "rating":3,
-      "review":2729,
-      "shipping_estimate":"2018-04-25T07:00:00.000Z"
+      "prime":false,
+      "in_stock":8,
+      "rating":2.5,
+      "review":7341,
+      "brand":"Logitech"
    },
    {
       "id":67,
       "name":"Parrot",
       "image_url":[
          "https://truimg.toysrus.com/product/images/sharper-image-rechargeable-dx-2-stunt-drone-2.4-ghz-black--54BCFCEC.zoom.jpg?fit=inside|485:485",
-         "http://imgur.com/1eo74Yu.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
          "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/knw05XS.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies"
+         "http://imgur.com/ISCAhSo.jpg#puppies",
+         "http://imgur.com/xYM1WVJ.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
-         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
-         "Direct-lit LED produces great picture quality",
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
          "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache"
+         "Wider frequency response for fuller listening enjoyment",
+         "100% Complete & Balanced Formula for Adult Cats"
       ],
-      "price":287.54,
-      "shipping":0,
+      "price":917.18,
+      "shipping":61.23,
       "prime":false,
-      "in_stock":13,
-      "rating":4.5,
-      "review":3975,
-      "shipping_estimate":"2018-04-13T07:00:00.000Z"
+      "in_stock":8,
+      "rating":1.5,
+      "review":3872,
+      "brand":"Intel"
    },
    {
       "id":68,
       "name":"Titan",
       "image_url":[
          "https://truimg.toysrus.com/product/images/sharper-image-rechargeable-dx-2-stunt-drone-2.4-ghz-black--54BCFCEC.zoom.jpg?fit=inside|485:485",
-         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies",
          "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies"
+         "http://imgur.com/P1GxMHI.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more."
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "Natural Fiber Blend Helps Control Hairballs",
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share"
       ],
-      "price":5667.52,
-      "shipping":0,
+      "price":3239.19,
+      "shipping":7.14,
       "prime":true,
-      "in_stock":0,
-      "rating":5,
-      "review":320,
-      "shipping_estimate":"2018-04-11T07:00:00.000Z"
+      "in_stock":20,
+      "rating":3,
+      "review":6983,
+      "brand":"Patagonia"
    },
    {
       "id":69,
@@ -1817,151 +1789,153 @@ module.exports = [
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-02.jpg?itok=ZcNajxlf&fc=50,50",
          "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies",
          "http://imgur.com/knw05XS.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies"
+         "http://imgur.com/P1GxMHI.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
-         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)"
+         "Natural Fiber Blend Helps Control Hairballs",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "Direct-lit LED produces great picture quality"
       ],
-      "price":1314.45,
-      "shipping":88.71,
+      "price":5086.1,
+      "shipping":0,
       "prime":true,
-      "in_stock":5,
-      "rating":2,
-      "review":3830,
-      "shipping_estimate":"2018-04-21T07:00:00.000Z"
+      "in_stock":15,
+      "rating":0,
+      "review":3894,
+      "brand":"Rolex"
    },
    {
       "id":70,
       "name":"Henry",
       "image_url":[
          "https://i0.wp.com/thedronegirl.com/wp-content/uploads/2016/07/MG_1612.jpg?resize=1024%2C683",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies"
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/ISCAhSo.jpg#puppies",
+         "http://imgur.com/XW7mWlP.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
-         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next."
+         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "Natural Fiber Blend Helps Control Hairballs"
       ],
-      "price":3235.11,
-      "shipping":69.81,
+      "price":605.87,
+      "shipping":0,
       "prime":false,
-      "in_stock":0,
-      "rating":3,
-      "review":3768,
-      "shipping_estimate":"2018-04-10T07:00:00.000Z"
+      "in_stock":4,
+      "rating":4.5,
+      "review":247,
+      "brand":"Patagonia"
    },
    {
       "id":71,
       "name":"Parrot",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-07.jpg?itok=dEigMkKk&fc=50,50",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies",
-         "http://imgur.com/sesTnZr.jpg#puppies"
+         "http://imgur.com/iIlhBgo.jpg#puppies",
+         "http://imgur.com/9iJfCs2.jpg#puppies",
+         "http://imgur.com/GDx27HC.jpg#puppies",
+         "http://imgur.com/xYM1WVJ.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
-         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "Long 3.6-ft cord threads comfortably through clothing and bags",
+         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
+         "Wider frequency response for fuller listening enjoyment"
       ],
-      "price":5280.92,
-      "shipping":21.52,
-      "prime":false,
-      "in_stock":15,
-      "rating":4.5,
-      "review":1862,
-      "shipping_estimate":"2018-04-25T07:00:00.000Z"
+      "price":1092.1,
+      "shipping":94.47,
+      "prime":true,
+      "in_stock":13,
+      "rating":3.5,
+      "review":3985,
+      "brand":"Webpack"
    },
    {
       "id":72,
       "name":"Steadfast",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-09.jpg?itok=dEigMkKk&fc=50,50",
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/CmiRlxL.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
          "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/knw05XS.jpg#puppies"
+         "http://imgur.com/TFF2dql.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "100% Complete & Balanced Formula for Adult Cats",
-         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "Wider frequency response for fuller listening enjoyment"
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV"
       ],
-      "price":4316.92,
-      "shipping":45.57,
-      "prime":false,
-      "in_stock":19,
-      "rating":0,
-      "review":7380,
-      "shipping_estimate":"2018-04-14T07:00:00.000Z"
+      "price":578.02,
+      "shipping":72.37,
+      "prime":true,
+      "in_stock":12,
+      "rating":3.5,
+      "review":4290,
+      "brand":"Sony"
    },
    {
       "id":73,
       "name":"Phantom",
       "image_url":[
          "https://cdn.vox-cdn.com/thumbor/vPg3038R00gWj4tzgYQS1lDb5Y8=/0x0:1024x576/920x613/filters:focal(431x207:593x369):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56508181/Drone_LIlY_00011_1024x576.0.png",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/GDx27HC.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies"
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "Made with Real Chicken and Turkey",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
          "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more."
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next."
       ],
-      "price":2488.25,
+      "price":3949.81,
       "shipping":0,
       "prime":true,
-      "in_stock":2,
-      "rating":1,
-      "review":2082,
-      "shipping_estimate":"2018-04-27T07:00:00.000Z"
+      "in_stock":12,
+      "rating":2,
+      "review":7328,
+      "brand":"Webpack"
    },
    {
       "id":74,
       "name":"Lead Ballon",
       "image_url":[
          "https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/08/drone-09.jpg?itok=dEigMkKk&fc=50,50",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/ISCAhSo.jpg#puppies"
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/XW7mWlP.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "category":"drone",
       "descriptions":[
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache"
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
+         "Long 3.6-ft cord threads comfortably through clothing and bags",
+         "Natural Fiber Blend Helps Control Hairballs"
       ],
-      "price":338.27,
-      "shipping":0,
+      "price":4480.92,
+      "shipping":47.83,
       "prime":true,
-      "in_stock":13,
-      "rating":5,
-      "review":1173,
-      "shipping_estimate":"2018-04-25T07:00:00.000Z"
+      "in_stock":20,
+      "rating":4.5,
+      "review":41,
+      "brand":"Patagonia"
    },
    {
       "id":75,
@@ -1969,22 +1943,28 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/WnZqdY",
-         "http://imgur.com/GDx27HC.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/ISCAhSo.jpg#puppies",
+         "http://imgur.com/sesTnZr.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies",
          "http://imgur.com/XW7mWlP.jpg#puppies"
       ],
       "descriptions":[
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "Natural Fiber Blend Helps Control Hairballs",
-         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\""
+         "100% Complete & Balanced Formula for Adult Cats",
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
+         "Made with Real Chicken and Turkey",
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience."
       ],
-      "price":3623.34,
-      "shipping":0,
-      "prime":true,
-      "in_stock":9,
-      "rating":2,
-      "review":7895,
-      "shipping_estimate":"2018-04-11T07:00:00.000Z"
+      "price":5159.17,
+      "shipping":12.31,
+      "prime":false,
+      "in_stock":1,
+      "rating":0.5,
+      "review":1934,
+      "brand":"Webpack"
    },
    {
       "id":76,
@@ -1993,21 +1973,27 @@ module.exports = [
       "image_url":[
          "https://goo.gl/images/aw6khe",
          "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
-         "http://imgur.com/1eo74Yu.jpg#puppies"
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/zPS7iWZ.jpg#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/sUGkXs1.jpg#puppies"
       ],
       "descriptions":[
+         "100% Complete & Balanced Formula for Adult Cats",
+         "100% Complete & Balanced Formula for Adult Cats",
+         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
+         "Wider frequency response for fuller listening enjoyment",
          "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
-         "Made with Real Chicken and Turkey",
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions."
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience"
       ],
-      "price":1940.04,
-      "shipping":0,
+      "price":3231.33,
+      "shipping":45.54,
       "prime":false,
-      "in_stock":14,
-      "rating":5,
-      "review":8671,
-      "shipping_estimate":"2018-04-06T07:00:00.000Z"
+      "in_stock":8,
+      "rating":2.5,
+      "review":7278,
+      "brand":"Supreme"
    },
    {
       "id":77,
@@ -2015,28 +2001,28 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/BFRLPi",
-         "http://imgur.com/P1GxMHI.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
          "http://imgur.com/CmiRlxL.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies",
-         "http://imgur.com/knw05XS.jpg#puppies"
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies"
       ],
       "descriptions":[
          "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "Made with Real Chicken and Turkey",
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "Long 3.6-ft cord threads comfortably through clothing and bags"
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
+         "Wider frequency response for fuller listening enjoyment"
       ],
-      "price":136.75,
+      "price":452.47,
       "shipping":0,
-      "prime":false,
-      "in_stock":1,
-      "rating":0,
-      "review":7057,
-      "shipping_estimate":"2018-04-23T07:00:00.000Z"
+      "prime":true,
+      "in_stock":8,
+      "rating":0.5,
+      "review":5242,
+      "brand":"Sony"
    },
    {
       "id":78,
@@ -2044,24 +2030,24 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/t4HW6Q",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies"
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/XW7mWlP.jpg#puppies",
+         "http://imgur.com/zPS7iWZ.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies"
       ],
       "descriptions":[
-         "100% Complete & Balanced Formula for Adult Cats",
-         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
-         "Wider frequency response for fuller listening enjoyment",
-         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\""
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
+         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next."
       ],
-      "price":3397.2,
-      "shipping":82.94,
-      "prime":true,
-      "in_stock":14,
-      "rating":0.5,
-      "review":4900,
-      "shipping_estimate":"2018-04-03T07:00:00.000Z"
+      "price":5343.47,
+      "shipping":0,
+      "prime":false,
+      "in_stock":8,
+      "rating":0,
+      "review":5655,
+      "brand":"Dell"
    },
    {
       "id":79,
@@ -2069,22 +2055,26 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/6wpBKq",
-         "http://imgur.com/sUGkXs1.jpg#puppies",
-         "http://imgur.com/GDx27HC.jpg#puppies",
+         "http://imgur.com/zPS7iWZ.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
+         "http://imgur.com/zPS7iWZ.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
          "http://imgur.com/yPbBB0i.jpg#puppies"
       ],
       "descriptions":[
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)"
+         "100% Complete & Balanced Formula for Adult Cats",
+         "Long 3.6-ft cord threads comfortably through clothing and bags",
+         "Wider frequency response for fuller listening enjoyment",
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "Wider frequency response for fuller listening enjoyment"
       ],
-      "price":540.35,
-      "shipping":41.71,
+      "price":714.9,
+      "shipping":22.44,
       "prime":true,
-      "in_stock":16,
-      "rating":3,
-      "review":33,
-      "shipping_estimate":"2018-04-10T07:00:00.000Z"
+      "in_stock":17,
+      "rating":0,
+      "review":950,
+      "brand":"Apache"
    },
    {
       "id":80,
@@ -2092,22 +2082,26 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/myL1tv",
-         "http://imgur.com/tOOCguv.jpg#puppies",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies",
          "http://imgur.com/CmiRlxL.jpg#puppies"
       ],
       "descriptions":[
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
-         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur"
+         "Natural Fiber Blend Helps Control Hairballs",
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
+         "Made with Real Chicken and Turkey",
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
+         "Long 3.6-ft cord threads comfortably through clothing and bags"
       ],
-      "price":148.04,
-      "shipping":72.99,
-      "prime":false,
-      "in_stock":9,
-      "rating":2,
-      "review":6440,
-      "shipping_estimate":"2018-04-21T07:00:00.000Z"
+      "price":2895.08,
+      "shipping":6.16,
+      "prime":true,
+      "in_stock":7,
+      "rating":0.5,
+      "review":7879,
+      "brand":"Stussy"
    },
    {
       "id":81,
@@ -2115,24 +2109,26 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/7NmS2A",
-         "http://imgur.com/kkb2FVM.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/ISCAhSo.jpg#puppies"
+         "http://imgur.com/zPS7iWZ.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/CmiRlxL.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "descriptions":[
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures"
+         "Made with Real Chicken and Turkey",
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
+         "Natural Fiber Blend Helps Control Hairballs",
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
       ],
-      "price":5511.11,
-      "shipping":0,
+      "price":2393.95,
+      "shipping":61.37,
       "prime":true,
-      "in_stock":1,
-      "rating":0.5,
-      "review":8786,
-      "shipping_estimate":"2018-04-13T07:00:00.000Z"
+      "in_stock":8,
+      "rating":5,
+      "review":350,
+      "brand":"Rolex"
    },
    {
       "id":82,
@@ -2140,28 +2136,22 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/CNzaV1",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies",
-         "http://imgur.com/tOOCguv.jpg#puppies",
-         "http://imgur.com/Ryl08TL.jpg#puppies",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies"
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/TFF2dql.jpg#puppies"
       ],
       "descriptions":[
-         "Natural Fiber Blend Helps Control Hairballs",
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
          "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures"
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions."
       ],
-      "price":5948.9,
-      "shipping":86.48,
+      "price":1665.65,
+      "shipping":14.01,
       "prime":true,
       "in_stock":16,
-      "rating":3.5,
-      "review":427,
-      "shipping_estimate":"2018-04-03T07:00:00.000Z"
+      "rating":2,
+      "review":7217,
+      "brand":"Intel"
    },
    {
       "id":83,
@@ -2169,24 +2159,22 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/ypwmt1",
-         "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/CmiRlxL.jpg#puppies",
-         "http://imgur.com/Ryl08TL.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies"
+         "http://imgur.com/iIlhBgo.jpg#puppies",
+         "http://imgur.com/j4Hu90T.png#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies"
       ],
       "descriptions":[
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
-         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage"
+         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
+         "100% Complete & Balanced Formula for Adult Cats",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
       ],
-      "price":4679.76,
+      "price":565.67,
       "shipping":0,
-      "prime":false,
-      "in_stock":6,
-      "rating":0,
-      "review":5169,
-      "shipping_estimate":"2018-04-27T07:00:00.000Z"
+      "prime":true,
+      "in_stock":5,
+      "rating":4,
+      "review":1277,
+      "brand":"Supreme"
    },
    {
       "id":84,
@@ -2194,28 +2182,26 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/RoVfZb",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies",
-         "http://imgur.com/sesTnZr.jpg#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/GDx27HC.jpg#puppies",
          "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies"
+         "http://imgur.com/CmiRlxL.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "descriptions":[
-         "Made with Real Chicken and Turkey",
          "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
-         "Wider frequency response for fuller listening enjoyment",
-         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
-         "720p HD resolution for a crisp picture. 120V – 60Hz 50W"
+         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
+         "100% Complete & Balanced Formula for Adult Cats",
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share"
       ],
-      "price":599.23,
+      "price":2217.33,
       "shipping":0,
       "prime":true,
-      "in_stock":19,
-      "rating":3.5,
-      "review":7161,
-      "shipping_estimate":"2018-04-19T07:00:00.000Z"
+      "in_stock":6,
+      "rating":2,
+      "review":6746,
+      "brand":"Revlon"
    },
    {
       "id":85,
@@ -2223,26 +2209,22 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/qJgKz5",
-         "http://imgur.com/kkb2FVM.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/1eo74Yu.jpg#puppies"
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies"
       ],
       "descriptions":[
-         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "Made with Real Chicken and Turkey",
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
-         "Connectivity technology is wired. Maximum input 200 milli watt"
+         "Connectivity technology is wired. Maximum input 200 milli watt",
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions."
       ],
-      "price":4883.49,
-      "shipping":8.97,
+      "price":3489.54,
+      "shipping":74.24,
       "prime":true,
-      "in_stock":3,
-      "rating":4.5,
-      "review":8813,
-      "shipping_estimate":"2018-04-26T07:00:00.000Z"
+      "in_stock":5,
+      "rating":1.5,
+      "review":5708,
+      "brand":"Stussy"
    },
    {
       "id":86,
@@ -2251,21 +2233,25 @@ module.exports = [
       "image_url":[
          "https://goo.gl/images/u68PL7",
          "http://imgur.com/ISCAhSo.jpg#puppies",
-         "http://imgur.com/knw05XS.jpg#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies"
+         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/xYM1WVJ.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies"
       ],
       "descriptions":[
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
-         "FOLDABLE STRUCTURE: Foldable & flexible blades make the drone small and portable. Also provides a better and safer flight experience",
-         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)"
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
+         "Wider frequency response for fuller listening enjoyment",
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port"
       ],
-      "price":3572.58,
-      "shipping":96.62,
+      "price":1293.65,
+      "shipping":2.82,
       "prime":false,
-      "in_stock":12,
-      "rating":1,
-      "review":3434,
-      "shipping_estimate":"2018-04-19T07:00:00.000Z"
+      "in_stock":6,
+      "rating":4,
+      "review":1876,
+      "brand":"Samsung"
    },
    {
       "id":87,
@@ -2273,24 +2259,24 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/er6emf",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies"
+         "http://imgur.com/GDx27HC.jpg#puppies",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies"
       ],
       "descriptions":[
-         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
+         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors"
       ],
-      "price":389.59,
-      "shipping":27.42,
+      "price":3194.56,
+      "shipping":0,
       "prime":true,
-      "in_stock":0,
-      "rating":0,
-      "review":5280,
-      "shipping_estimate":"2018-04-20T07:00:00.000Z"
+      "in_stock":6,
+      "rating":5,
+      "review":1770,
+      "brand":"RR"
    },
    {
       "id":88,
@@ -2298,22 +2284,22 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/7Rq9BV",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies"
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/Ryl08TL.jpg#puppies"
       ],
       "descriptions":[
-         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
-         "Wider frequency response for fuller listening enjoyment",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache"
+         "Direct-lit LED produces great picture quality",
+         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur"
       ],
-      "price":3237.51,
-      "shipping":0,
-      "prime":false,
-      "in_stock":3,
-      "rating":5,
-      "review":7574,
-      "shipping_estimate":"2018-04-28T07:00:00.000Z"
+      "price":1544.7,
+      "shipping":82.33,
+      "prime":true,
+      "in_stock":20,
+      "rating":0.5,
+      "review":5890,
+      "brand":"Webpack"
    },
    {
       "id":89,
@@ -2321,28 +2307,28 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/ZGqiKk",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/TFF2dql.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/sesTnZr.jpg#puppies",
+         "http://imgur.com/XW7mWlP.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
          "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies"
+         "http://imgur.com/kkb2FVM.jpg#puppies"
       ],
       "descriptions":[
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "Wider frequency response for fuller listening enjoyment",
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "Natural Fiber Blend Helps Control Hairballs",
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system"
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port"
       ],
-      "price":2075.21,
-      "shipping":75.43,
-      "prime":false,
-      "in_stock":17,
-      "rating":4,
-      "review":7524,
-      "shipping_estimate":"2018-04-20T07:00:00.000Z"
+      "price":897.51,
+      "shipping":22.71,
+      "prime":true,
+      "in_stock":10,
+      "rating":3.5,
+      "review":6173,
+      "brand":"Samsung"
    },
    {
       "id":90,
@@ -2350,28 +2336,28 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/qHFMdA",
-         "http://imgur.com/kkb2FVM.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/wMTyFXF.jpg#puppies",
-         "http://imgur.com/GDx27HC.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies"
+         "http://imgur.com/sUGkXs1.jpg#puppies",
+         "http://imgur.com/TFF2dql.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
+         "http://imgur.com/ISCAhSo.jpg#puppies",
+         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/zPS7iWZ.jpg#puppies"
       ],
       "descriptions":[
-         "100% Complete & Balanced Formula for Adult Cats",
-         "100% Complete & Balanced Formula for Adult Cats",
+         "256GB PCI-E based flash memory storage, 8GB of 1600MHz LPDDR3 onboard memory",
+         "Natural Fiber Blend Helps Control Hairballs",
+         "Long 3.6-ft cord threads comfortably through clothing and bags",
          "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "Made with Real Chicken and Turkey",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
-         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV"
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
+         "Connectivity technology is wired. Maximum input 200 milli watt"
       ],
-      "price":1547.36,
-      "shipping":24.46,
+      "price":2476.89,
+      "shipping":0,
       "prime":false,
-      "in_stock":1,
-      "rating":4,
-      "review":5217,
-      "shipping_estimate":"2018-04-11T07:00:00.000Z"
+      "in_stock":0,
+      "rating":3,
+      "review":927,
+      "brand":"Supreme"
    },
    {
       "id":91,
@@ -2379,24 +2365,24 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/u9Q8DR",
-         "http://imgur.com/xYM1WVJ.jpg#puppies",
-         "http://imgur.com/sUGkXs1.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/ISCAhSo.jpg#puppies"
+         "http://imgur.com/Ryl08TL.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies"
       ],
       "descriptions":[
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "Made with Real Chicken and Turkey",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more."
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
+         "Natural Fiber Blend Helps Control Hairballs",
+         "60Hz refresh rate allows fast moving action scenes to be seen with minimal motion blur"
       ],
-      "price":5410.69,
-      "shipping":35.67,
+      "price":5784.51,
+      "shipping":0,
       "prime":false,
-      "in_stock":5,
-      "rating":5,
-      "review":1308,
-      "shipping_estimate":"2018-04-11T07:00:00.000Z"
+      "in_stock":15,
+      "rating":3,
+      "review":3594,
+      "brand":"Huawei"
    },
    {
       "id":92,
@@ -2404,28 +2390,24 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/aVSsYn",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies",
          "http://imgur.com/qg5mYlH.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies"
+         "http://imgur.com/knw05XS.jpg#puppies",
+         "http://imgur.com/ISCAhSo.jpg#puppies"
       ],
       "descriptions":[
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out",
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
-         "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next."
+         "Black ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears",
+         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
+         "Direct-lit LED produces great picture quality",
+         "Natural Fiber Blend Helps Control Hairballs"
       ],
-      "price":3533.21,
+      "price":5894.05,
       "shipping":0,
       "prime":true,
-      "in_stock":20,
-      "rating":0,
-      "review":6669,
-      "shipping_estimate":"2018-04-10T07:00:00.000Z"
+      "in_stock":16,
+      "rating":2,
+      "review":4377,
+      "brand":"Patagonia"
    },
    {
       "id":93,
@@ -2433,22 +2415,22 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/oj4pSr",
-         "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies"
+         "http://imgur.com/eWzBogn.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/eWzBogn.jpg#puppies"
       ],
       "descriptions":[
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
          "Wider frequency response for fuller listening enjoyment",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
-         "Connectivity technology is wired. Maximum input 200 milli watt"
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions."
       ],
-      "price":108.13,
-      "shipping":95.63,
-      "prime":true,
-      "in_stock":9,
+      "price":3318.93,
+      "shipping":46.74,
+      "prime":false,
+      "in_stock":3,
       "rating":3.5,
-      "review":5751,
-      "shipping_estimate":"2018-04-14T07:00:00.000Z"
+      "review":5430,
+      "brand":"Logitech"
    },
    {
       "id":94,
@@ -2456,24 +2438,22 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/SSJw9D",
-         "http://imgur.com/Ryl08TL.jpg#puppies",
-         "http://imgur.com/Ryl08TL.jpg#puppies",
-         "http://imgur.com/CmiRlxL.jpg#puppies",
-         "http://imgur.com/kkb2FVM.jpg#puppies"
+         "http://imgur.com/BuhZN1l.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/XW7mWlP.jpg#puppies"
       ],
       "descriptions":[
-         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
          "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port"
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones."
       ],
-      "price":2215.63,
-      "shipping":0,
+      "price":2185.79,
+      "shipping":16.36,
       "prime":true,
-      "in_stock":16,
-      "rating":1.5,
-      "review":6885,
-      "shipping_estimate":"2018-04-13T07:00:00.000Z"
+      "in_stock":13,
+      "rating":4,
+      "review":8829,
+      "brand":"Hisense"
    },
    {
       "id":95,
@@ -2481,28 +2461,22 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/88vHa9",
-         "http://imgur.com/kkb2FVM.jpg#puppies",
-         "http://imgur.com/sesTnZr.jpg#puppies",
-         "http://imgur.com/jSsFtWv.jpg#puppies",
          "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/sUGkXs1.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies"
+         "http://imgur.com/sesTnZr.jpg#puppies",
+         "http://imgur.com/yPbBB0i.jpg#puppies"
       ],
       "descriptions":[
-         "MODULAR and BONUS BATTERY: There are 2 powerful 3.7V 500mAh Modular batteries including 1 bonus, which can support longer flight time for you and your family, this modular design ensures the safety of charge and storage",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "Wi-Fi FPV 720P HD CAMERA: Equipped with 720P HD camera to take aerial photos and videos. Images and videos will be stored in both the app and the mobile album system",
-         "Direct-lit LED produces great picture quality",
-         "100% Complete & Balanced Formula for Adult Cats",
-         "Inputs: 3 HDMI (1 w/ ARC), 1 USB, RF, Composite, Headphone Jack, Optical Audio Out"
+         "Natural Fiber Blend Helps Control Hairballs",
+         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port"
       ],
-      "price":4727.38,
-      "shipping":0,
+      "price":3890.33,
+      "shipping":36.45,
       "prime":true,
-      "in_stock":16,
-      "rating":1,
-      "review":7872,
-      "shipping_estimate":"2018-04-17T07:00:00.000Z"
+      "in_stock":2,
+      "rating":4,
+      "review":3445,
+      "brand":"Hisense"
    },
    {
       "id":96,
@@ -2510,24 +2484,28 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/JoWhVh",
+         "http://imgur.com/yPbBB0i.jpg#puppies",
+         "http://imgur.com/BuhZN1l.jpg#puppies",
          "http://imgur.com/GDx27HC.jpg#puppies",
-         "http://imgur.com/tOOCguv.jpg#puppies",
-         "http://imgur.com/9iJfCs2.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies"
+         "http://imgur.com/zPS7iWZ.jpg#puppies",
+         "http://imgur.com/CmiRlxL.jpg#puppies",
+         "http://imgur.com/xYM1WVJ.jpg#puppies"
       ],
       "descriptions":[
-         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more.",
+         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
+         "Connectivity technology is wired. Maximum input 200 milli watt",
          "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
-         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty"
+         "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 4.0 technology for connecting with peripherals such as keyboards, mice, and cell phones.",
+         "Smart functionality offers access to over 4,000 streaming channels featuring more than 450,000 movies and TV episodes via Roku TV",
+         "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals"
       ],
-      "price":4482.99,
+      "price":5386.64,
       "shipping":0,
-      "prime":false,
-      "in_stock":1,
-      "rating":0,
-      "review":4727,
-      "shipping_estimate":"2018-04-20T07:00:00.000Z"
+      "prime":true,
+      "in_stock":14,
+      "rating":3,
+      "review":6575,
+      "brand":"Sony"
    },
    {
       "id":97,
@@ -2535,28 +2513,26 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/18VjJX",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/tOOCguv.jpg#puppies",
+         "http://imgur.com/lOF0a13.jpg#puppies",
+         "http://imgur.com/iIlhBgo.jpg#puppies",
+         "http://imgur.com/knw05XS.jpg#puppies",
          "http://imgur.com/CmiRlxL.jpg#puppies",
-         "http://imgur.com/Ryl08TL.jpg#puppies",
-         "http://imgur.com/yPbBB0i.jpg#puppies",
-         "http://imgur.com/BuhZN1l.jpg#puppies"
+         "http://imgur.com/yPbBB0i.jpg#puppies"
       ],
       "descriptions":[
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
          "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
-         "Connectivity technology is wired. Maximum input 200 milli watt",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience."
+         "Dimensions (W x H x D): TV without stand: 28.9\" x 17.1\" x 3.2\", TV with stand: 28.9\" x 19.2\" x 7.2\"",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
+         "Full-size keyboard with 78 (U.S.) individual LED backlit keys, including 12 function keys and 4 arrow keys with ambient light sensor, Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures"
       ],
-      "price":724.4,
-      "shipping":4.95,
-      "prime":true,
-      "in_stock":13,
-      "rating":3.5,
-      "review":2424,
-      "shipping_estimate":"2018-04-17T07:00:00.000Z"
+      "price":5484.81,
+      "shipping":0,
+      "prime":false,
+      "in_stock":19,
+      "rating":2,
+      "review":868,
+      "brand":"Logitech"
    },
    {
       "id":98,
@@ -2564,28 +2540,28 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/fVmpkb",
-         "http://imgur.com/kkb2FVM.jpg#puppies",
-         "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/zPS7iWZ.jpg#puppies",
+         "http://imgur.com/9iJfCs2.jpg#puppies",
+         "http://imgur.com/sesTnZr.jpg#puppies",
+         "http://imgur.com/wMTyFXF.jpg#puppies",
+         "http://imgur.com/P1GxMHI.jpg#puppies",
          "http://imgur.com/j4Hu90T.png#puppies",
-         "http://imgur.com/lOF0a13.jpg#puppies",
-         "http://imgur.com/xYM1WVJ.jpg#puppies"
+         "http://imgur.com/TFF2dql.jpg#puppies"
       ],
       "descriptions":[
-         "Long 3.6-ft cord threads comfortably through clothing and bags",
-         "ONE KEY START/ LANDING: Allows players of any level (Beginners Intermediates Experts) to fly the drone easily with perfect control and wonderful performance. Offering Release Date: 2017/8/12",
-         "100% Complete & Balanced Formula for Adult Cats",
-         "Wider frequency response for fuller listening enjoyment",
-         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
-         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share"
+         "This Certified Refurbished product is manufacturer refurbished, shows limited or no wear, and includes all original accessories plus a 90-day warranty",
+         "12-inch (diagonal) LED-backlit display with IPS technology; 2304-by-1440 resolution at 226 pixels per inch with support for millions of colors",
+         "720p HD resolution for a crisp picture. 120V – 60Hz 50W",
+         "✔ MULTI-FUNCTION IN-LINE CONTROL: The corded headphones features an in-line microphone for hands-free phone calls with one button control and one volume control. Adjust the volume to a comfortable level, easily control your music: Play, Pause, Previous, Next.",
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)",
+         "Natural Fiber Blend Helps Control Hairballs"
       ],
-      "price":5392.09,
+      "price":4838.8,
       "shipping":0,
       "prime":false,
-      "in_stock":10,
+      "in_stock":13,
       "rating":2,
-      "review":4330,
-      "shipping_estimate":"2018-04-16T07:00:00.000Z"
+      "review":556,
+      "brand":"Huawei"
    },
    {
       "id":99,
@@ -2593,23 +2569,27 @@ module.exports = [
       "category":"TV",
       "image_url":[
          "https://goo.gl/images/RtURx5",
+         "http://imgur.com/qg5mYlH.jpg#puppies",
+         "http://imgur.com/ISCAhSo.jpg#puppies",
+         "http://imgur.com/jSsFtWv.jpg#puppies",
+         "http://imgur.com/kkb2FVM.jpg#puppies",
          "http://imgur.com/XW7mWlP.jpg#puppies",
-         "http://imgur.com/eWzBogn.jpg#puppies",
-         "http://imgur.com/GDx27HC.jpg#puppies",
-         "http://imgur.com/j4Hu90T.png#puppies"
+         "http://imgur.com/1eo74Yu.jpg#puppies"
       ],
       "descriptions":[
+         "Built-in stereo speakers along with omnidirectional microphone, headphone port",
+         "APP CONTROL SYSTEM: Operate your drone through an APP after connecting the Wi-Fi to your phone (iOS or Android), offering you real-time image transmission, easy to shoot and read, fun to share",
+         "Intel HD Graphics 5300 processor for an outstanding everyday graphics experience.",
          "One (1) 13 Pound Bag of Purina Cat Chow Naturals Indoor Plus Vitamins and Minerals",
-         "1.2GHz dual-core Intel Core M-5Y51 processor (Turbo Boost up to 2.6GHz) with 4MB shared L3 cache",
-         "✔ PREMIUM COMFORT ON-EAR HEADPHONES: Comfortable on-ear lightweight design along with soft ear cushions and adjustable padded headband provide premium comfort even during long listening sessions.",
-         "✔ UNIVERSAL COMPATIBILITY: Equipped with 46\" tangle-free cable, compatible with almost all 3.5mm jack audio devices: iPhone, iPad, iPod, Samsung, Android cell phones, tablets, PC, laptops, Mac and more."
+         "Natural Fiber Blend Helps Control Hairballs",
+         "Eight vivid fashion color options with color-matching earbuds and cords (color-matching for iPod Nano 5th generation)"
       ],
-      "price":4968.26,
+      "price":5239.56,
       "shipping":0,
-      "prime":false,
-      "in_stock":2,
-      "rating":2,
-      "review":7497,
-      "shipping_estimate":"2018-04-05T07:00:00.000Z"
+      "prime":true,
+      "in_stock":8,
+      "rating":1.5,
+      "review":6283,
+      "brand":"Patagonia"
    }
 ]

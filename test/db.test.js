@@ -30,9 +30,9 @@ describe('Tests for database', () => {
       .then((product) => {
         expect(product).toHaveProperty('id');
         expect(product).toHaveProperty('name');
+        expect(product).toHaveProperty('brand');
         expect(product).toHaveProperty('price');
         expect(product).toHaveProperty('shipping');
-        expect(product).toHaveProperty('shipping_estimate');
         expect(product).toHaveProperty('prime');
         expect(product).toHaveProperty('in_stock');
         expect(product).toHaveProperty('descriptions');

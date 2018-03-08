@@ -4,7 +4,7 @@ const Prime = () => (
   <div className="spacing-small" >
     <i className="icon icon-prime primeUpsellIcon" />
     &nbsp;|&nbsp;
-    <a href="#">Try Fast, Free Shipping</a>
+    <a>Try Fast, Free Shipping</a>
     <i className="icon icon-popover" />
   </div>
 );

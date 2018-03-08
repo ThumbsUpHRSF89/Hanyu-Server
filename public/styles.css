@@ -20,6 +20,12 @@ a, a:visited {
   color: #0066c0;
 }
 
+a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  color: orange;
+}
+
 .image-view {
   display: flex;
   flex-direction: row;
@@ -239,4 +245,8 @@ a, a:visited {
 
 .primeUpsellIcon {
   vertical-align: -2px;
+}
+
+.text-bold {
+  font-weight: 700!important;
 }

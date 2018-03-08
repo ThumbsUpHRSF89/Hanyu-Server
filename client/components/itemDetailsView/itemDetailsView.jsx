@@ -21,6 +21,14 @@ const ItemDetailsView = ({ details }) => (
     <InStock inStock={details.in_stock} />
     <Shipping />
     <DescriptionList descriptions={details.descriptions} />
+    <div className="spacing-small">
+      <span className="caretnext">›</span>
+      <a>
+        See more product details
+      </a>
+    </div>
+
+    <hr />
   </div>
 );
 

@@ -250,3 +250,25 @@ a:hover {
 .text-bold {
   font-weight: 700!important;
 }
+
+.spacing-none {
+  margin-bottom: 0!important;
+}
+
+.unordered-list {
+  padding: 0;
+  margin: 0 0 0 18px;
+  color: #949494;
+}
+
+.list-item {
+  color: #111;
+}
+
+.caretnext {
+  color: #C60;
+  font-size: 1.2em;
+  font-weight: 700;
+  text-decoration: none;
+  margin-left: 4px;
+}

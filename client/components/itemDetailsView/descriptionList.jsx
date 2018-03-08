@@ -1,10 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import DescriptionEntry from './descriptionEntry'
+import DescriptionEntry from './descriptionEntry';
 
 const DescriptionList = ({ descriptions }) => (
   <div>
-    <ul>
+    <ul className="unordered-list spacing-none">
       {descriptions.map(description =>
         (<DescriptionEntry
           description={description}
@@ -12,5 +12,9 @@ const DescriptionList = ({ descriptions }) => (
     </ul>
   </div>
 );
+
+DescriptionList.propTypes = {
+  descriptions: PropTypes.arrayOf(PropTypes.string).isRequired,
+};
 
 export default DescriptionList;

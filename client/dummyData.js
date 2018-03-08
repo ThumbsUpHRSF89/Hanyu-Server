@@ -1,6 +1,7 @@
 /* eslint-disable */
 module.exports = {
   "id":0,
+  "brand": "Motorola",
   "category":"phone",
   "name":"productnamMoto X (4th Generation) - with hands-free Amazon Alexa – 32 GB - Unlocked – Super Black - Prime Exclusive",
   "image_url":[

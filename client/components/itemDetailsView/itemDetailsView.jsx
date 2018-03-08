@@ -8,7 +8,7 @@ import DescriptionList from './descriptionList';
 import Shipping from './shipping';
 
 const ItemDetailsView = ({ details }) => (
-  <div className="item-detail-view">
+  <div id="midCol" className="item-detail-view">
     <ItemDetailsHeader
       brand={details.brand}
       name={details.name}

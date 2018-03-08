@@ -91,7 +91,7 @@ export default class Shipping extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="spacing-small">
         <span className="text-bold">
           Want it {formatDate(this.state.arrivingDate)}?
         </span>

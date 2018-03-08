@@ -14,7 +14,7 @@ export default class App extends React.Component {
   render() {
     const { image_url: images, ...details } = this.state.product;
     return (
-      <div>
+      <div id="item-detail-module">
         <ImageView
           images={images}
           title={details.name}

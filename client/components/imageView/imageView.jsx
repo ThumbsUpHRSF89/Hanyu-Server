@@ -17,7 +17,7 @@ export default class imageView extends React.Component {
   }
   render() {
     return (
-      <div className="image-view">
+      <div id="leftCol" className="image-view">
         <ImageList
           images={this.props.images}
           select={this.selectImage}

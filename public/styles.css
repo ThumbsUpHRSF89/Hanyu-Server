@@ -110,6 +110,7 @@ a:hover {
   width: 1000px;
   height: 750px;
   box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+  z-index: 2;
 }
 
 #zoomLens {
@@ -271,4 +272,19 @@ a:hover {
   font-weight: 700;
   text-decoration: none;
   margin-left: 4px;
+}
+
+#leftCol {
+  width: 30%;
+  float: left;
+}
+
+#midCol {
+  margin-left: 32%;
+  margin-right: 20%;
+}
+
+#item-detail-module {
+  height: 800px;
+  overflow: auto;
 }

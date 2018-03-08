@@ -2,6 +2,17 @@ body {
   font-family: "Amazon Ember",Arial,sans-serif;
 }
 
+hr {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  border-width: 0;
+  border-top: 1px solid #e7e7e7;
+  line-height: 19px;
+  margin-top: 0;
+  margin-bottom: 14px;
+}
+
 .image-view {
   display: flex;
   flex-direction: row;
@@ -204,4 +215,12 @@ body {
 
 .color-secondary {
   color: #555!important;
+}
+
+.color-success {
+  color: #008a00!important;
+}
+
+.spacing-small {
+  margin-bottom: 10px!important;
 }

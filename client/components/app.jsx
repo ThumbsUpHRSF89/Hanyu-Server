@@ -12,11 +12,13 @@ export default class App extends React.Component {
   }
 
   componentWillMount() {
-    this.getProductInfo(0);
+    const path = window.location.pathname.split('/');
+    const id = Number(path[2]);
+    this.getProductInfo(id);
   }
 
   getProductInfo(id) {
-    const url = `/product/${id}`;
+    const url = `http://localhost:8004/product/${id}`;
     fetch(url)
       .then(res => res.json())
       .then((res) => {

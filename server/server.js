@@ -1,13 +1,15 @@
 const express = require('express');
 const path = require('path');
+const cors = require('cors');
 const mongoose = require('mongoose');
 const Product = require('../db/models/product');
 
 const app = express();
-const port = 3000;
+const port = 8004;
 
 mongoose.connect('mongodb://localhost/productDetails');
 
+app.use(cors());
 app.use(express.static(path.join(__dirname, '../public')));
 
 app.get('/product/:id', (req, res) => {

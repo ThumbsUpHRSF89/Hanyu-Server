@@ -6,8 +6,8 @@ WORKDIR /src/app
 
 COPY . /src/app
 
-RUN npm install
+RUN npm install --no-cache git
 
 EXPOSE 8004
 
-CMD [ "npm", "start" ]
+CMD [ "npm", "run", "startdocker" ]

@@ -9,6 +9,7 @@
   },
   "scripts": {
     "start": "nodemon server/server.js",
+    "startdocker": "node server/server.js",
     "dev": "webpack -d --watch",
     "seed-db": "node db/worker.js",
     "test": "jest",

@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const Product = require('./models/product');
 const data = require('./dummyData');
 
-mongoose.connect('mongodb://localhost/productDetails');
+mongoose.connect('mongodb://database/productDetails');
 
 Product.insertData(data)
   .then(() => {

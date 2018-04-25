@@ -18,7 +18,7 @@ export default class App extends React.Component {
   }
 
   getProductInfo(id) {
-    const url = `http://localhost:8004/product/${id}`;
+    const url = `http://localhost:8004/api/product/${id}`;
     fetch(url)
       .then(res => res.json())
       .then((res) => {

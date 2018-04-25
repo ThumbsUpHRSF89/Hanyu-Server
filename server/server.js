@@ -10,9 +10,9 @@ const port = 8004;
 mongoose.connect('mongodb://localhost/productDetails');
 
 app.use(cors());
-app.use(express.static(path.join(__dirname, '../public')));
+app.use('/product/:id/', express.static(path.join(__dirname, '../public')));
 
-app.get('/product/:id', (req, res) => {
+app.get('/api/product/:id', (req, res) => {
   console.log('Serving GET request on url /product');
   const { id } = req.params;
   Product.getProductById(id)

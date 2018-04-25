@@ -7,7 +7,7 @@ const Product = require('../db/models/product');
 const app = express();
 const port = 8004;
 
-mongoose.connect('mongodb://database/productDetails');
+mongoose.connect('mongodb://localhost/productDetails');
 
 app.use(cors());
 app.use(express.static(path.join(__dirname, '../public')));
